@@ -1,0 +1,912 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Bike Repairs Rentals",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-b24a674695ea5b869e9010a590e4713f.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2 (pro)",
+            "screenshot": "screenshots\/home-2-pro-.jpg",
+            "source": "templates\/home-2-pro-e6648df1aae21f723d3f7b8b7909f03d.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about-1f09cd642e54f95c902a1904a53d4023.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Bike Rentals",
+            "screenshot": "screenshots\/bike-rentals.jpg",
+            "source": "templates\/bike-rentals-2080097471b4b2d68ad4d10c627ce5ed.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services 1",
+            "screenshot": "screenshots\/services-1.jpg",
+            "source": "templates\/services-1-2e8a1dee57f67e07dc2d8fb1d09abf58.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services 2 (pro)",
+            "screenshot": "screenshots\/services-2-pro-.jpg",
+            "source": "templates\/services-2-pro-16fbabd51eb9113b660bd3a90f2326c2.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing List (pro)",
+            "screenshot": "screenshots\/pricing-list-pro-.jpg",
+            "source": "templates\/pricing-list-pro-521f27eeb25a62a1165080d517d92647.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Events",
+            "screenshot": "screenshots\/events.jpg",
+            "source": "templates\/events-4cb5d8239ba7c24ee05b188ee2dd7cf0.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq-b07852b02deb2fd4343cae82d0d966f9.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contacts (pro)",
+            "screenshot": "screenshots\/contacts-pro-.jpg",
+            "source": "templates\/contacts-pro-1efbaf667afb31f0e3292a54a66acafa.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [
+        {
+            "name": "Custom CSS",
+            "description": "These styles are added to the WordPress Customizer.",
+            "file": "css\/customizer.css"
+        }
+    ],
+    "images": [
+        {
+            "filename": "florencia-viadana-rMPr-UhfaXI-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/florencia-viadana-rMPr-UhfaXI-unsplash-500x335.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-b24a674695ea5b869e9010a590e4713f.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/services-1-2e8a1dee57f67e07dc2d8fb1d09abf58.json",
+                    "name": "Services 1"
+                },
+                {
+                    "source": "templates\/pricing-list-pro-521f27eeb25a62a1165080d517d92647.json",
+                    "name": "Pricing List (pro)"
+                },
+                {
+                    "source": "templates\/events-4cb5d8239ba7c24ee05b188ee2dd7cf0.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/contacts-pro-1efbaf667afb31f0e3292a54a66acafa.json",
+                    "name": "Contacts (pro)"
+                }
+            ],
+            "filesize": 1540326,
+            "dimensions": [
+                1920,
+                1287
+            ]
+        },
+        {
+            "filename": "home2-full-bg.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/home2-full-bg-500x129.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-b24a674695ea5b869e9010a590e4713f.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 3358,
+            "dimensions": [
+                1410,
+                363
+            ]
+        },
+        {
+            "filename": "crankset.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/crankset.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-b24a674695ea5b869e9010a590e4713f.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 3687,
+            "dimensions": [
+                60,
+                57
+            ]
+        },
+        {
+            "filename": "chain.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/chain.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-b24a674695ea5b869e9010a590e4713f.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 2107,
+            "dimensions": [
+                46,
+                56
+            ]
+        },
+        {
+            "filename": "fix.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/fix.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-b24a674695ea5b869e9010a590e4713f.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 3732,
+            "dimensions": [
+                56,
+                56
+            ]
+        },
+        {
+            "filename": "gear.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/gear.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-b24a674695ea5b869e9010a590e4713f.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 2903,
+            "dimensions": [
+                57,
+                57
+            ]
+        },
+        {
+            "filename": "murillo-de-paula-o2FCfhNSjPo-unsplash-e1576664739845.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/murillo-de-paula-o2FCfhNSjPo-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-b24a674695ea5b869e9010a590e4713f.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/bike-rentals-2080097471b4b2d68ad4d10c627ce5ed.json",
+                    "name": "Bike Rentals"
+                },
+                {
+                    "source": "templates\/contacts-pro-1efbaf667afb31f0e3292a54a66acafa.json",
+                    "name": "Contacts (pro)"
+                }
+            ],
+            "filesize": 600740,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "asoggetti-HPpj2190tGs-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/asoggetti-HPpj2190tGs-unsplash-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-b24a674695ea5b869e9010a590e4713f.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/bike-rentals-2080097471b4b2d68ad4d10c627ce5ed.json",
+                    "name": "Bike Rentals"
+                },
+                {
+                    "source": "templates\/services-1-2e8a1dee57f67e07dc2d8fb1d09abf58.json",
+                    "name": "Services 1"
+                }
+            ],
+            "filesize": 1540081,
+            "dimensions": [
+                1920,
+                1282
+            ]
+        },
+        {
+            "filename": "angel-santos-K5r0CZn6jvA-unsplash-scaled.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/angel-santos-K5r0CZn6jvA-unsplash-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-b24a674695ea5b869e9010a590e4713f.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 769249,
+            "dimensions": [
+                1707,
+                2560
+            ]
+        },
+        {
+            "filename": "zoltan-tasi-TsB03tz5030-unsplash-scaled-e1576664837423.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/zoltan-tasi-TsB03tz5030-unsplash-500x679.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-b24a674695ea5b869e9010a590e4713f.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 856435,
+            "dimensions": [
+                1885,
+                2560
+            ]
+        },
+        {
+            "filename": "julian-hochgesang-jyoTLVMv9So-unsplash-e1576664783573.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/julian-hochgesang-jyoTLVMv9So-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-b24a674695ea5b869e9010a590e4713f.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/bike-rentals-2080097471b4b2d68ad4d10c627ce5ed.json",
+                    "name": "Bike Rentals"
+                },
+                {
+                    "source": "templates\/services-2-pro-16fbabd51eb9113b660bd3a90f2326c2.json",
+                    "name": "Services 2 (pro)"
+                }
+            ],
+            "filesize": 491629,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "josh-nuttall-pIwu5XNvXpk-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/11\/josh-nuttall-pIwu5XNvXpk-unsplash-500x354.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-e6648df1aae21f723d3f7b8b7909f03d.json",
+                    "name": "Home 2 (pro)"
+                },
+                {
+                    "source": "templates\/bike-rentals-2080097471b4b2d68ad4d10c627ce5ed.json",
+                    "name": "Bike Rentals"
+                },
+                {
+                    "source": "templates\/services-2-pro-16fbabd51eb9113b660bd3a90f2326c2.json",
+                    "name": "Services 2 (pro)"
+                }
+            ],
+            "filesize": 615067,
+            "dimensions": [
+                1920,
+                1358
+            ]
+        },
+        {
+            "filename": "victor-xok-PkFYx9QVxGo-unsplash-e1576664714125.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/11\/victor-xok-PkFYx9QVxGo-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-e6648df1aae21f723d3f7b8b7909f03d.json",
+                    "name": "Home 2 (pro)"
+                },
+                {
+                    "source": "templates\/services-2-pro-16fbabd51eb9113b660bd3a90f2326c2.json",
+                    "name": "Services 2 (pro)"
+                },
+                {
+                    "source": "templates\/faq-b07852b02deb2fd4343cae82d0d966f9.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 421811,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "markus-spiske-0vHYfcJgNkM-unsplash-scaled.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/11\/markus-spiske-0vHYfcJgNkM-unsplash-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-e6648df1aae21f723d3f7b8b7909f03d.json",
+                    "name": "Home 2 (pro)"
+                },
+                {
+                    "source": "templates\/services-2-pro-16fbabd51eb9113b660bd3a90f2326c2.json",
+                    "name": "Services 2 (pro)"
+                },
+                {
+                    "source": "templates\/pricing-list-pro-521f27eeb25a62a1165080d517d92647.json",
+                    "name": "Pricing List (pro)"
+                }
+            ],
+            "filesize": 340347,
+            "dimensions": [
+                1707,
+                2560
+            ]
+        },
+        {
+            "filename": "cihan-soysakal-luGallcWGf0-unsplash-scaled.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/11\/cihan-soysakal-luGallcWGf0-unsplash-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-e6648df1aae21f723d3f7b8b7909f03d.json",
+                    "name": "Home 2 (pro)"
+                }
+            ],
+            "filesize": 388050,
+            "dimensions": [
+                1707,
+                2560
+            ]
+        },
+        {
+            "filename": "markus-spiske-fEkUmEs2Sf0-unsplash-scaled.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/11\/markus-spiske-fEkUmEs2Sf0-unsplash-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-e6648df1aae21f723d3f7b8b7909f03d.json",
+                    "name": "Home 2 (pro)"
+                }
+            ],
+            "filesize": 461729,
+            "dimensions": [
+                1707,
+                2560
+            ]
+        },
+        {
+            "filename": "marina-castilho-0r8NmpsDSdM-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/11\/marina-castilho-0r8NmpsDSdM-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-e6648df1aae21f723d3f7b8b7909f03d.json",
+                    "name": "Home 2 (pro)"
+                }
+            ],
+            "filesize": 1532117,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "andrew-seaman-ZKB9Bo4zCqQ-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/11\/andrew-seaman-ZKB9Bo4zCqQ-unsplash-500x331.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-e6648df1aae21f723d3f7b8b7909f03d.json",
+                    "name": "Home 2 (pro)"
+                }
+            ],
+            "filesize": 1049979,
+            "dimensions": [
+                1920,
+                1272
+            ]
+        },
+        {
+            "filename": "left-bg.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/11\/left-bg-500x210.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-e6648df1aae21f723d3f7b8b7909f03d.json",
+                    "name": "Home 2 (pro)"
+                }
+            ],
+            "filesize": 4149,
+            "dimensions": [
+                1245,
+                523
+            ]
+        },
+        {
+            "filename": "andrew-seaman-ZKB9Bo4zCqQ-unsplash-1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/11\/andrew-seaman-ZKB9Bo4zCqQ-unsplash-1-500x331.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-e6648df1aae21f723d3f7b8b7909f03d.json",
+                    "name": "Home 2 (pro)"
+                },
+                {
+                    "source": "templates\/bike-rentals-2080097471b4b2d68ad4d10c627ce5ed.json",
+                    "name": "Bike Rentals"
+                },
+                {
+                    "source": "templates\/pricing-list-pro-521f27eeb25a62a1165080d517d92647.json",
+                    "name": "Pricing List (pro)"
+                }
+            ],
+            "filesize": 1049979,
+            "dimensions": [
+                1920,
+                1272
+            ]
+        },
+        {
+            "filename": "bicycle-breaks-exercise-professional-6946.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/bicycle-breaks-exercise-professional-6946-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-1f09cd642e54f95c902a1904a53d4023.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services-1-2e8a1dee57f67e07dc2d8fb1d09abf58.json",
+                    "name": "Services 1"
+                },
+                {
+                    "source": "templates\/services-2-pro-16fbabd51eb9113b660bd3a90f2326c2.json",
+                    "name": "Services 2 (pro)"
+                }
+            ],
+            "filesize": 234403,
+            "dimensions": [
+                1920,
+                1279
+            ]
+        },
+        {
+            "filename": "left-bg-big.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/left-bg-big-500x157.png",
+            "templates": [
+                {
+                    "source": "templates\/about-1f09cd642e54f95c902a1904a53d4023.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 16431,
+            "dimensions": [
+                1665,
+                523
+            ]
+        },
+        {
+            "filename": "fix-big.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/fix-big.png",
+            "templates": [
+                {
+                    "source": "templates\/about-1f09cd642e54f95c902a1904a53d4023.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 16948,
+            "dimensions": [
+                230,
+                230
+            ]
+        },
+        {
+            "filename": "crankset-red.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/crankset-red.png",
+            "templates": [
+                {
+                    "source": "templates\/about-1f09cd642e54f95c902a1904a53d4023.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services-1-2e8a1dee57f67e07dc2d8fb1d09abf58.json",
+                    "name": "Services 1"
+                }
+            ],
+            "filesize": 3714,
+            "dimensions": [
+                60,
+                57
+            ]
+        },
+        {
+            "filename": "chain-red.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/chain-red.png",
+            "templates": [
+                {
+                    "source": "templates\/about-1f09cd642e54f95c902a1904a53d4023.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services-1-2e8a1dee57f67e07dc2d8fb1d09abf58.json",
+                    "name": "Services 1"
+                }
+            ],
+            "filesize": 2107,
+            "dimensions": [
+                46,
+                56
+            ]
+        },
+        {
+            "filename": "fix-red.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/fix-red.png",
+            "templates": [
+                {
+                    "source": "templates\/about-1f09cd642e54f95c902a1904a53d4023.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services-1-2e8a1dee57f67e07dc2d8fb1d09abf58.json",
+                    "name": "Services 1"
+                }
+            ],
+            "filesize": 3746,
+            "dimensions": [
+                56,
+                56
+            ]
+        },
+        {
+            "filename": "gear-red.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/gear-red.png",
+            "templates": [
+                {
+                    "source": "templates\/about-1f09cd642e54f95c902a1904a53d4023.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services-1-2e8a1dee57f67e07dc2d8fb1d09abf58.json",
+                    "name": "Services 1"
+                }
+            ],
+            "filesize": 2941,
+            "dimensions": [
+                57,
+                57
+            ]
+        },
+        {
+            "filename": "hassan-khan-EGVccebWodM-unsplash-scaled.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/hassan-khan-EGVccebWodM-unsplash-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-1f09cd642e54f95c902a1904a53d4023.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 421105,
+            "dimensions": [
+                1707,
+                2560
+            ]
+        },
+        {
+            "filename": "jake-fagan-Y7C7F26fzZM-unsplash-small.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/jake-fagan-Y7C7F26fzZM-unsplash-small.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-1f09cd642e54f95c902a1904a53d4023.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 104398,
+            "dimensions": [
+                370,
+                445
+            ]
+        },
+        {
+            "filename": "lindie-wilton-OhpBXJYMxpo-unsplash-scaled.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/lindie-wilton-OhpBXJYMxpo-unsplash-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-1f09cd642e54f95c902a1904a53d4023.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 338390,
+            "dimensions": [
+                1707,
+                2560
+            ]
+        },
+        {
+            "filename": "daniel-llorente-K7yTmKG7kac-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/daniel-llorente-K7yTmKG7kac-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-1f09cd642e54f95c902a1904a53d4023.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services-1-2e8a1dee57f67e07dc2d8fb1d09abf58.json",
+                    "name": "Services 1"
+                },
+                {
+                    "source": "templates\/events-4cb5d8239ba7c24ee05b188ee2dd7cf0.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 1393877,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "bike-full-bg.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/bike-full-bg-500x226.png",
+            "templates": [
+                {
+                    "source": "templates\/bike-rentals-2080097471b4b2d68ad4d10c627ce5ed.json",
+                    "name": "Bike Rentals"
+                }
+            ],
+            "filesize": 17134,
+            "dimensions": [
+                1410,
+                637
+            ]
+        },
+        {
+            "filename": "valentyn-ihnatov-dtyEL_FV4yU-unsplash-e1576664905793.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/valentyn-ihnatov-dtyEL_FV4yU-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/bike-rentals-2080097471b4b2d68ad4d10c627ce5ed.json",
+                    "name": "Bike Rentals"
+                }
+            ],
+            "filesize": 456956,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "santiago-pazos-bordon-Jj9dycup6HM-unsplash-e1576664767899.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/santiago-pazos-bordon-Jj9dycup6HM-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/bike-rentals-2080097471b4b2d68ad4d10c627ce5ed.json",
+                    "name": "Bike Rentals"
+                }
+            ],
+            "filesize": 390577,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "black-bicycle-handle-bar-545002.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/black-bicycle-handle-bar-545002-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/bike-rentals-2080097471b4b2d68ad4d10c627ce5ed.json",
+                    "name": "Bike Rentals"
+                }
+            ],
+            "filesize": 244176,
+            "dimensions": [
+                1920,
+                1279
+            ]
+        },
+        {
+            "filename": "man-carrying-white-and-black-bianchi-road-bike-990427.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/man-carrying-white-and-black-bianchi-road-bike-990427-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-1-2e8a1dee57f67e07dc2d8fb1d09abf58.json",
+                    "name": "Services 1"
+                },
+                {
+                    "source": "templates\/pricing-list-pro-521f27eeb25a62a1165080d517d92647.json",
+                    "name": "Pricing List (pro)"
+                },
+                {
+                    "source": "templates\/faq-b07852b02deb2fd4343cae82d0d966f9.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 740290,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "full-bg-1410.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/full-bg-1410-500x232.png",
+            "templates": [
+                {
+                    "source": "templates\/services-1-2e8a1dee57f67e07dc2d8fb1d09abf58.json",
+                    "name": "Services 1"
+                }
+            ],
+            "filesize": 17559,
+            "dimensions": [
+                1410,
+                653
+            ]
+        },
+        {
+            "filename": "john-nzoka-dhoAzw-NGk4-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/john-nzoka-dhoAzw-NGk4-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-1-2e8a1dee57f67e07dc2d8fb1d09abf58.json",
+                    "name": "Services 1"
+                }
+            ],
+            "filesize": 1138344,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "services-left-bg.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/services-left-bg-500x243.png",
+            "templates": [
+                {
+                    "source": "templates\/services-2-pro-16fbabd51eb9113b660bd3a90f2326c2.json",
+                    "name": "Services 2 (pro)"
+                }
+            ],
+            "filesize": 25413,
+            "dimensions": [
+                1665,
+                810
+            ]
+        },
+        {
+            "filename": "john-nzoka-9ZRVsPOdzBk-unsplash-scaled.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/john-nzoka-9ZRVsPOdzBk-unsplash-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing-list-pro-521f27eeb25a62a1165080d517d92647.json",
+                    "name": "Pricing List (pro)"
+                },
+                {
+                    "source": "templates\/contacts-pro-1efbaf667afb31f0e3292a54a66acafa.json",
+                    "name": "Contacts (pro)"
+                }
+            ],
+            "filesize": 218624,
+            "dimensions": [
+                1707,
+                2560
+            ]
+        },
+        {
+            "filename": "extra-big-bg.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/extra-big-bg-500x282.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-list-pro-521f27eeb25a62a1165080d517d92647.json",
+                    "name": "Pricing List (pro)"
+                }
+            ],
+            "filesize": 29427,
+            "dimensions": [
+                1665,
+                939
+            ]
+        },
+        {
+            "filename": "events-right-bg.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/events-right-bg-500x173.png",
+            "templates": [
+                {
+                    "source": "templates\/events-4cb5d8239ba7c24ee05b188ee2dd7cf0.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 18127,
+            "dimensions": [
+                1665,
+                577
+            ]
+        },
+        {
+            "filename": "events-left-bg.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/208\/2019\/12\/events-left-bg-500x163.png",
+            "templates": [
+                {
+                    "source": "templates\/events-4cb5d8239ba7c24ee05b188ee2dd7cf0.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 17098,
+            "dimensions": [
+                1665,
+                544
+            ]
+        }
+    ]
+}

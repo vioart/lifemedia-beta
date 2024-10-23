@@ -1,0 +1,1472 @@
+{
+    "manifest_version": "1.0.23",
+    "title": "Zoora - Template kit for Zoo & Safari",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/shine.creativemox.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Zoora - FAQ",
+            "screenshot": "screenshots\/zoora-faq.jpg",
+            "source": "templates\/zoora-faq.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/zoora\/?elementor_library=zoora-faq",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Zoora - Team",
+            "screenshot": "screenshots\/zoora-team.jpg",
+            "source": "templates\/zoora-team.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/zoora\/?elementor_library=zoora-team",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Zoora - Contact us",
+            "screenshot": "screenshots\/zoora-contact-us.jpg",
+            "source": "templates\/zoora-contact-us.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/zoora\/?elementor_library=zoora-contact-us",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Zoora - Pricing plan",
+            "screenshot": "screenshots\/zoora-pricing-plan.jpg",
+            "source": "templates\/zoora-pricing-plan.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/zoora\/?elementor_library=zoora-pricing-plan",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Zoora - Attraction Detail",
+            "screenshot": "screenshots\/zoora-attraction-detail.jpg",
+            "source": "templates\/zoora-attraction-detail.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/zoora\/?elementor_library=zoora-attraction-detail",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Zoora - Attractions",
+            "screenshot": "screenshots\/zoora-attractions.jpg",
+            "source": "templates\/zoora-attractions.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/zoora\/?elementor_library=zoora-attractions",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Zoora - About us",
+            "screenshot": "screenshots\/zoora-about-us.jpg",
+            "source": "templates\/zoora-about-us.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/zoora\/?elementor_library=zoora-about-us",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Zoora - Homepage 2",
+            "screenshot": "screenshots\/zoora-homepage-2.jpg",
+            "source": "templates\/zoora-homepage-2.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/zoora\/?elementor_library=zoora-homepage-2",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Zoora - Homepage",
+            "screenshot": "screenshots\/zoora-homepage.jpg",
+            "source": "templates\/zoora-homepage.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/zoora\/?elementor_library=zoora-homepage",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Zoora - Error 404",
+            "screenshot": "screenshots\/zoora-error-404.jpg",
+            "source": "templates\/zoora-error-404.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/zoora\/?elementor_library=zoora-error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Zoora - Single post",
+            "screenshot": "screenshots\/zoora-single-post.jpg",
+            "source": "templates\/zoora-single-post.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/zoora\/?elementor_library=zoora-single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Zoora - Blog Archive",
+            "screenshot": "screenshots\/zoora-blog-archive.jpg",
+            "source": "templates\/zoora-blog-archive.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/zoora\/?elementor_library=zoora-blog-archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Zoora - Footer",
+            "screenshot": "screenshots\/zoora-footer.jpg",
+            "source": "templates\/zoora-footer.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/zoora\/?elementor_library=zoora-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Zoora - Header",
+            "screenshot": "screenshots\/zoora-header.jpg",
+            "source": "templates\/zoora-header.json",
+            "preview_url": "https:\/\/shine.creativemox.com\/zoora\/?elementor_library=zoora-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.2.8",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Skyboot Custom Icons for Elementor - Elementor Icons library",
+            "version": "1.0.8",
+            "file": "skyboot-custom-icons-for-elementor\/skyboot-custom-icons-for-elementor.php",
+            "author": "Skybootstrap"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.24.5",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.24.2",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "flamingo-in-the-zoo-s-pond-e1728087421479.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/flamingo-in-the-zoo-s-pond-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-faq.json",
+                    "name": "Zoora - FAQ"
+                }
+            ],
+            "filesize": 171509,
+            "dimensions": [
+                962,
+                640
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-84U8JEQ"
+        },
+        {
+            "filename": "img_3.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/img_3-800x100.png",
+            "templates": [
+                {
+                    "source": "templates\/zoora-faq.json",
+                    "name": "Zoora - FAQ"
+                },
+                {
+                    "source": "templates\/zoora-team.json",
+                    "name": "Zoora - Team"
+                },
+                {
+                    "source": "templates\/zoora-contact-us.json",
+                    "name": "Zoora - Contact us"
+                },
+                {
+                    "source": "templates\/zoora-pricing-plan.json",
+                    "name": "Zoora - Pricing plan"
+                },
+                {
+                    "source": "templates\/zoora-attraction-detail.json",
+                    "name": "Zoora - Attraction Detail"
+                },
+                {
+                    "source": "templates\/zoora-attractions.json",
+                    "name": "Zoora - Attractions"
+                },
+                {
+                    "source": "templates\/zoora-about-us.json",
+                    "name": "Zoora - About us"
+                },
+                {
+                    "source": "templates\/zoora-homepage-2.json",
+                    "name": "Zoora - Homepage 2"
+                },
+                {
+                    "source": "templates\/zoora-homepage.json",
+                    "name": "Zoora - Homepage"
+                },
+                {
+                    "source": "templates\/zoora-single-post.json",
+                    "name": "Zoora - Single post"
+                },
+                {
+                    "source": "templates\/zoora-blog-archive.json",
+                    "name": "Zoora - Blog Archive"
+                }
+            ],
+            "filesize": 109158,
+            "dimensions": [
+                1600,
+                200
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "two-young-orangutans-at-the-zoo-e1728087451965.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/two-young-orangutans-at-the-zoo-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-faq.json",
+                    "name": "Zoora - FAQ"
+                },
+                {
+                    "source": "templates\/zoora-team.json",
+                    "name": "Zoora - Team"
+                },
+                {
+                    "source": "templates\/zoora-blog-archive.json",
+                    "name": "Zoora - Blog Archive"
+                }
+            ],
+            "filesize": 179050,
+            "dimensions": [
+                963,
+                640
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-BJAT3ND"
+        },
+        {
+            "filename": "red-panda-in-the-zoo-park.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/red-panda-in-the-zoo-park-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-faq.json",
+                    "name": "Zoora - FAQ"
+                },
+                {
+                    "source": "templates\/zoora-team.json",
+                    "name": "Zoora - Team"
+                },
+                {
+                    "source": "templates\/zoora-about-us.json",
+                    "name": "Zoora - About us"
+                },
+                {
+                    "source": "templates\/zoora-homepage-2.json",
+                    "name": "Zoora - Homepage 2"
+                }
+            ],
+            "filesize": 172827,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-U2XKDSA"
+        },
+        {
+            "filename": "portrait-of-two-endangered-white-rhinos-ceratotherium-simum-south-africa.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/portrait-of-two-endangered-white-rhinos-ceratotherium-simum-south-africa-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-faq.json",
+                    "name": "Zoora - FAQ"
+                },
+                {
+                    "source": "templates\/zoora-pricing-plan.json",
+                    "name": "Zoora - Pricing plan"
+                }
+            ],
+            "filesize": 163164,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-GY2ZKJS"
+        },
+        {
+            "filename": "img_1-1.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/img_1-1-800x50.png",
+            "templates": [
+                {
+                    "source": "templates\/zoora-faq.json",
+                    "name": "Zoora - FAQ"
+                },
+                {
+                    "source": "templates\/zoora-pricing-plan.json",
+                    "name": "Zoora - Pricing plan"
+                },
+                {
+                    "source": "templates\/zoora-attraction-detail.json",
+                    "name": "Zoora - Attraction Detail"
+                },
+                {
+                    "source": "templates\/zoora-attractions.json",
+                    "name": "Zoora - Attractions"
+                },
+                {
+                    "source": "templates\/zoora-about-us.json",
+                    "name": "Zoora - About us"
+                },
+                {
+                    "source": "templates\/zoora-homepage-2.json",
+                    "name": "Zoora - Homepage 2"
+                },
+                {
+                    "source": "templates\/zoora-homepage.json",
+                    "name": "Zoora - Homepage"
+                }
+            ],
+            "filesize": 20384,
+            "dimensions": [
+                1600,
+                100
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg_pattern.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/bg_pattern-800x320.png",
+            "templates": [
+                {
+                    "source": "templates\/zoora-faq.json",
+                    "name": "Zoora - FAQ"
+                },
+                {
+                    "source": "templates\/zoora-team.json",
+                    "name": "Zoora - Team"
+                },
+                {
+                    "source": "templates\/zoora-contact-us.json",
+                    "name": "Zoora - Contact us"
+                },
+                {
+                    "source": "templates\/zoora-pricing-plan.json",
+                    "name": "Zoora - Pricing plan"
+                },
+                {
+                    "source": "templates\/zoora-attraction-detail.json",
+                    "name": "Zoora - Attraction Detail"
+                },
+                {
+                    "source": "templates\/zoora-attractions.json",
+                    "name": "Zoora - Attractions"
+                },
+                {
+                    "source": "templates\/zoora-about-us.json",
+                    "name": "Zoora - About us"
+                },
+                {
+                    "source": "templates\/zoora-homepage-2.json",
+                    "name": "Zoora - Homepage 2"
+                },
+                {
+                    "source": "templates\/zoora-homepage.json",
+                    "name": "Zoora - Homepage"
+                },
+                {
+                    "source": "templates\/zoora-error-404.json",
+                    "name": "Zoora - Error 404"
+                },
+                {
+                    "source": "templates\/zoora-single-post.json",
+                    "name": "Zoora - Single post"
+                },
+                {
+                    "source": "templates\/zoora-footer.json",
+                    "name": "Zoora - Footer"
+                }
+            ],
+            "filesize": 52155,
+            "dimensions": [
+                1600,
+                640
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/blue-zebra-5KQB5TR"
+        },
+        {
+            "filename": "people-photographing-wildlife-on-safari-stellenbosch-south-africa.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/people-photographing-wildlife-on-safari-stellenbosch-south-africa-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-team.json",
+                    "name": "Zoora - Team"
+                }
+            ],
+            "filesize": 182735,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-V4FWWMQ"
+        },
+        {
+            "filename": "1.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-team.json",
+                    "name": "Zoora - Team"
+                },
+                {
+                    "source": "templates\/zoora-about-us.json",
+                    "name": "Zoora - About us"
+                }
+            ],
+            "filesize": 20084,
+            "dimensions": [
+                378,
+                378
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "3.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-team.json",
+                    "name": "Zoora - Team"
+                },
+                {
+                    "source": "templates\/zoora-about-us.json",
+                    "name": "Zoora - About us"
+                }
+            ],
+            "filesize": 20275,
+            "dimensions": [
+                378,
+                378
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "13.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/13.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-team.json",
+                    "name": "Zoora - Team"
+                },
+                {
+                    "source": "templates\/zoora-about-us.json",
+                    "name": "Zoora - About us"
+                }
+            ],
+            "filesize": 25005,
+            "dimensions": [
+                376,
+                376
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "2.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-team.json",
+                    "name": "Zoora - Team"
+                },
+                {
+                    "source": "templates\/zoora-about-us.json",
+                    "name": "Zoora - About us"
+                }
+            ],
+            "filesize": 18115,
+            "dimensions": [
+                378,
+                378
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "9.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-team.json",
+                    "name": "Zoora - Team"
+                }
+            ],
+            "filesize": 22542,
+            "dimensions": [
+                374,
+                374
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "5.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-team.json",
+                    "name": "Zoora - Team"
+                }
+            ],
+            "filesize": 22801,
+            "dimensions": [
+                374,
+                374
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "10.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/10.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-team.json",
+                    "name": "Zoora - Team"
+                },
+                {
+                    "source": "templates\/zoora-attraction-detail.json",
+                    "name": "Zoora - Attraction Detail"
+                },
+                {
+                    "source": "templates\/zoora-homepage-2.json",
+                    "name": "Zoora - Homepage 2"
+                },
+                {
+                    "source": "templates\/zoora-homepage.json",
+                    "name": "Zoora - Homepage"
+                }
+            ],
+            "filesize": 24270,
+            "dimensions": [
+                374,
+                374
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "14.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/14.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-team.json",
+                    "name": "Zoora - Team"
+                }
+            ],
+            "filesize": 23324,
+            "dimensions": [
+                376,
+                376
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "bg_img1.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/bg_img1.png",
+            "templates": [
+                {
+                    "source": "templates\/zoora-team.json",
+                    "name": "Zoora - Team"
+                },
+                {
+                    "source": "templates\/zoora-homepage-2.json",
+                    "name": "Zoora - Homepage 2"
+                }
+            ],
+            "filesize": 44176,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "close-adult-tiger-portrait-in-jungle.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/close-adult-tiger-portrait-in-jungle-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-team.json",
+                    "name": "Zoora - Team"
+                },
+                {
+                    "source": "templates\/zoora-about-us.json",
+                    "name": "Zoora - About us"
+                },
+                {
+                    "source": "templates\/zoora-homepage-2.json",
+                    "name": "Zoora - Homepage 2"
+                },
+                {
+                    "source": "templates\/zoora-homepage.json",
+                    "name": "Zoora - Homepage"
+                }
+            ],
+            "filesize": 134238,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-HT6SMWZ"
+        },
+        {
+            "filename": "img_2.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/img_2-800x100.png",
+            "templates": [
+                {
+                    "source": "templates\/zoora-team.json",
+                    "name": "Zoora - Team"
+                },
+                {
+                    "source": "templates\/zoora-homepage-2.json",
+                    "name": "Zoora - Homepage 2"
+                }
+            ],
+            "filesize": 124747,
+            "dimensions": [
+                1600,
+                200
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "the-giant-panda-in-the-zoo-eats-bamboo-.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/the-giant-panda-in-the-zoo-eats-bamboo--800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-contact-us.json",
+                    "name": "Zoora - Contact us"
+                },
+                {
+                    "source": "templates\/zoora-homepage-2.json",
+                    "name": "Zoora - Homepage 2"
+                }
+            ],
+            "filesize": 179435,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-GLZ5E28"
+        },
+        {
+            "filename": "bengal-tiger-lying-down.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/bengal-tiger-lying-down-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-pricing-plan.json",
+                    "name": "Zoora - Pricing plan"
+                },
+                {
+                    "source": "templates\/zoora-about-us.json",
+                    "name": "Zoora - About us"
+                },
+                {
+                    "source": "templates\/zoora-homepage-2.json",
+                    "name": "Zoora - Homepage 2"
+                },
+                {
+                    "source": "templates\/zoora-homepage.json",
+                    "name": "Zoora - Homepage"
+                }
+            ],
+            "filesize": 153335,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-LD678HE"
+        },
+        {
+            "filename": "happy-friends-enjoying-in-vehicle-during-safari-vacation.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/happy-friends-enjoying-in-vehicle-during-safari-vacation-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-attraction-detail.json",
+                    "name": "Zoora - Attraction Detail"
+                },
+                {
+                    "source": "templates\/zoora-attractions.json",
+                    "name": "Zoora - Attractions"
+                },
+                {
+                    "source": "templates\/zoora-homepage-2.json",
+                    "name": "Zoora - Homepage 2"
+                },
+                {
+                    "source": "templates\/zoora-homepage.json",
+                    "name": "Zoora - Homepage"
+                }
+            ],
+            "filesize": 131682,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-RP6XM8E"
+        },
+        {
+            "filename": "img_2_.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/img_2_.png",
+            "templates": [
+                {
+                    "source": "templates\/zoora-attraction-detail.json",
+                    "name": "Zoora - Attraction Detail"
+                }
+            ],
+            "filesize": 26636,
+            "dimensions": [
+                651,
+                367
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/animals-map-background-illustration-KNENDGZ"
+        },
+        {
+            "filename": "orang-utan-sitting-on-tree-trunk.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/orang-utan-sitting-on-tree-trunk-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-attraction-detail.json",
+                    "name": "Zoora - Attraction Detail"
+                },
+                {
+                    "source": "templates\/zoora-attractions.json",
+                    "name": "Zoora - Attractions"
+                },
+                {
+                    "source": "templates\/zoora-about-us.json",
+                    "name": "Zoora - About us"
+                },
+                {
+                    "source": "templates\/zoora-homepage-2.json",
+                    "name": "Zoora - Homepage 2"
+                },
+                {
+                    "source": "templates\/zoora-homepage.json",
+                    "name": "Zoora - Homepage"
+                }
+            ],
+            "filesize": 144409,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-YFJTYCJ"
+        },
+        {
+            "filename": "16.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/16.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-attraction-detail.json",
+                    "name": "Zoora - Attraction Detail"
+                },
+                {
+                    "source": "templates\/zoora-homepage-2.json",
+                    "name": "Zoora - Homepage 2"
+                },
+                {
+                    "source": "templates\/zoora-homepage.json",
+                    "name": "Zoora - Homepage"
+                }
+            ],
+            "filesize": 23472,
+            "dimensions": [
+                376,
+                376
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "8.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-attraction-detail.json",
+                    "name": "Zoora - Attraction Detail"
+                },
+                {
+                    "source": "templates\/zoora-homepage-2.json",
+                    "name": "Zoora - Homepage 2"
+                },
+                {
+                    "source": "templates\/zoora-homepage.json",
+                    "name": "Zoora - Homepage"
+                }
+            ],
+            "filesize": 26601,
+            "dimensions": [
+                374,
+                374
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "active-young-couple-in-safari-suits-with-parrot-hiking-in-jungle.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/active-young-couple-in-safari-suits-with-parrot-hiking-in-jungle-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-attractions.json",
+                    "name": "Zoora - Attractions"
+                },
+                {
+                    "source": "templates\/zoora-about-us.json",
+                    "name": "Zoora - About us"
+                },
+                {
+                    "source": "templates\/zoora-homepage.json",
+                    "name": "Zoora - Homepage"
+                }
+            ],
+            "filesize": 158672,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-W4QZNZA"
+        },
+        {
+            "filename": "young-caucasian-girl-feeding-deer-at-the-zoo-e1728087484676.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/young-caucasian-girl-feeding-deer-at-the-zoo-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-attractions.json",
+                    "name": "Zoora - Attractions"
+                },
+                {
+                    "source": "templates\/zoora-homepage-2.json",
+                    "name": "Zoora - Homepage 2"
+                },
+                {
+                    "source": "templates\/zoora-homepage.json",
+                    "name": "Zoora - Homepage"
+                }
+            ],
+            "filesize": 179971,
+            "dimensions": [
+                959,
+                640
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-JSU2QBQ"
+        },
+        {
+            "filename": "tourists-watching-the-insect-in-terrarium-at-zoo.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/tourists-watching-the-insect-in-terrarium-at-zoo-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-attractions.json",
+                    "name": "Zoora - Attractions"
+                },
+                {
+                    "source": "templates\/zoora-homepage-2.json",
+                    "name": "Zoora - Homepage 2"
+                },
+                {
+                    "source": "templates\/zoora-homepage.json",
+                    "name": "Zoora - Homepage"
+                }
+            ],
+            "filesize": 166598,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-L3VPWTM"
+        },
+        {
+            "filename": "a-family-of-visitors-in-a-safari-vehicle-with-a-guide-.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/a-family-of-visitors-in-a-safari-vehicle-with-a-guide--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-attractions.json",
+                    "name": "Zoora - Attractions"
+                },
+                {
+                    "source": "templates\/zoora-homepage-2.json",
+                    "name": "Zoora - Homepage 2"
+                },
+                {
+                    "source": "templates\/zoora-homepage.json",
+                    "name": "Zoora - Homepage"
+                }
+            ],
+            "filesize": 169945,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-T8SE3BN"
+        },
+        {
+            "filename": "blurred-photo-of-wildlife-photographer-at-sunset-.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/blurred-photo-of-wildlife-photographer-at-sunset--800x531.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-attractions.json",
+                    "name": "Zoora - Attractions"
+                },
+                {
+                    "source": "templates\/zoora-homepage-2.json",
+                    "name": "Zoora - Homepage 2"
+                },
+                {
+                    "source": "templates\/zoora-homepage.json",
+                    "name": "Zoora - Homepage"
+                }
+            ],
+            "filesize": 163444,
+            "dimensions": [
+                1280,
+                850
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-HHX4TZX"
+        },
+        {
+            "filename": "elephant-and-woman-in-thailand.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/elephant-and-woman-in-thailand-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-attractions.json",
+                    "name": "Zoora - Attractions"
+                },
+                {
+                    "source": "templates\/zoora-homepage-2.json",
+                    "name": "Zoora - Homepage 2"
+                },
+                {
+                    "source": "templates\/zoora-homepage.json",
+                    "name": "Zoora - Homepage"
+                }
+            ],
+            "filesize": 201378,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-YP86SNE"
+        },
+        {
+            "filename": "vernal-hanging-parrot.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/vernal-hanging-parrot-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-about-us.json",
+                    "name": "Zoora - About us"
+                },
+                {
+                    "source": "templates\/zoora-homepage.json",
+                    "name": "Zoora - Homepage"
+                }
+            ],
+            "filesize": 83478,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-DGZLQ5H"
+        },
+        {
+            "filename": "three-zebras-grazing-on-grass.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/three-zebras-grazing-on-grass-800x536.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-about-us.json",
+                    "name": "Zoora - About us"
+                },
+                {
+                    "source": "templates\/zoora-homepage.json",
+                    "name": "Zoora - Homepage"
+                }
+            ],
+            "filesize": 181179,
+            "dimensions": [
+                1280,
+                857
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-VK2JEGF"
+        },
+        {
+            "filename": "logo-1.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/zoora-about-us.json",
+                    "name": "Zoora - About us"
+                },
+                {
+                    "source": "templates\/zoora-homepage-2.json",
+                    "name": "Zoora - Homepage 2"
+                },
+                {
+                    "source": "templates\/zoora-homepage.json",
+                    "name": "Zoora - Homepage"
+                }
+            ],
+            "filesize": 2063,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-2.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/zoora-about-us.json",
+                    "name": "Zoora - About us"
+                },
+                {
+                    "source": "templates\/zoora-homepage-2.json",
+                    "name": "Zoora - Homepage 2"
+                },
+                {
+                    "source": "templates\/zoora-homepage.json",
+                    "name": "Zoora - Homepage"
+                }
+            ],
+            "filesize": 1811,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-3.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/logo-3.png",
+            "templates": [
+                {
+                    "source": "templates\/zoora-about-us.json",
+                    "name": "Zoora - About us"
+                },
+                {
+                    "source": "templates\/zoora-homepage-2.json",
+                    "name": "Zoora - Homepage 2"
+                },
+                {
+                    "source": "templates\/zoora-homepage.json",
+                    "name": "Zoora - Homepage"
+                }
+            ],
+            "filesize": 2079,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-4.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/logo-4.png",
+            "templates": [
+                {
+                    "source": "templates\/zoora-about-us.json",
+                    "name": "Zoora - About us"
+                },
+                {
+                    "source": "templates\/zoora-homepage-2.json",
+                    "name": "Zoora - Homepage 2"
+                },
+                {
+                    "source": "templates\/zoora-homepage.json",
+                    "name": "Zoora - Homepage"
+                }
+            ],
+            "filesize": 2193,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-5.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/logo-5.png",
+            "templates": [
+                {
+                    "source": "templates\/zoora-about-us.json",
+                    "name": "Zoora - About us"
+                },
+                {
+                    "source": "templates\/zoora-homepage-2.json",
+                    "name": "Zoora - Homepage 2"
+                },
+                {
+                    "source": "templates\/zoora-homepage.json",
+                    "name": "Zoora - Homepage"
+                }
+            ],
+            "filesize": 2300,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-11.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/logo-11.png",
+            "templates": [
+                {
+                    "source": "templates\/zoora-about-us.json",
+                    "name": "Zoora - About us"
+                },
+                {
+                    "source": "templates\/zoora-homepage-2.json",
+                    "name": "Zoora - Homepage 2"
+                },
+                {
+                    "source": "templates\/zoora-homepage.json",
+                    "name": "Zoora - Homepage"
+                }
+            ],
+            "filesize": 1900,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "toucans-at-the-zoo-e1728087569792.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/toucans-at-the-zoo-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-homepage-2.json",
+                    "name": "Zoora - Homepage 2"
+                }
+            ],
+            "filesize": 165817,
+            "dimensions": [
+                853,
+                640
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-VSW3NXN"
+        },
+        {
+            "filename": "pink-flamingos-phoenicopterus-roseus-against-green-background.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/pink-flamingos-phoenicopterus-roseus-against-green-background-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-homepage-2.json",
+                    "name": "Zoora - Homepage 2"
+                }
+            ],
+            "filesize": 124255,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-P7EKMVG"
+        },
+        {
+            "filename": "tropical-rainforest-landscape-e1728087535444.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/tropical-rainforest-landscape-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-homepage.json",
+                    "name": "Zoora - Homepage"
+                }
+            ],
+            "filesize": 235732,
+            "dimensions": [
+                960,
+                640
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-KENTQ95"
+        },
+        {
+            "filename": "img_3-1.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/img_3-1.png",
+            "templates": [
+                {
+                    "source": "templates\/zoora-homepage.json",
+                    "name": "Zoora - Homepage"
+                }
+            ],
+            "filesize": 204532,
+            "dimensions": [
+                640,
+                640
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/tiger-portrait-isolated-on-white-3A2CLRN"
+        },
+        {
+            "filename": "lush-forest-with-ancient-oak-trees-e1728086784477.jpg",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/lush-forest-with-ancient-oak-trees-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/zoora-footer.json",
+                    "name": "Zoora - Footer"
+                }
+            ],
+            "filesize": 225267,
+            "dimensions": [
+                960,
+                640
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-FD6ANS8"
+        },
+        {
+            "filename": "img_1.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/img_1.png",
+            "templates": [
+                {
+                    "source": "templates\/zoora-footer.json",
+                    "name": "Zoora - Footer"
+                }
+            ],
+            "filesize": 64878,
+            "dimensions": [
+                397,
+                500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/colorful-hybrid-harlequin-macaw-perching-on-steel--HVL8L3H"
+        },
+        {
+            "filename": "logo_zoora.png",
+            "thumbnail_url": "http:\/\/shine.creativemox.com\/zoora\/wp-content\/uploads\/sites\/30\/2024\/10\/logo_zoora.png",
+            "templates": [
+                {
+                    "source": "templates\/zoora-footer.json",
+                    "name": "Zoora - Footer"
+                },
+                {
+                    "source": "templates\/zoora-header.json",
+                    "name": "Zoora - Header"
+                }
+            ],
+            "filesize": 7354,
+            "dimensions": [
+                477,
+                125
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        }
+    ]
+}

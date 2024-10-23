@@ -1,0 +1,79 @@
+.envato-kit-221-animation-style-full .elementor-column-wrap {
+	overflow: hidden;
+}
+.envato-kit-221-animation-style-full .elementor-background-overlay {
+	transition: all .3s ease-in-out;
+}
+.envato-kit-221-animation-style-full .elementor-widget-wrap {
+	 justify-content: flex-end;
+}
+.envato-kit-221-animation-style-full .elementor-widget-wrap .elementor-inner-section {
+	width: 80%;
+	height: 100%;
+  transition: all .3s ease-in-out;
+}
+.envato-kit-221-animation-style-full .elementor-widget-wrap .elementor-inner-section:hover {
+	width: 100%;
+}
+
+.envato-kit-221-button-style-full .elementor-button-link {
+	width: 100%;
+	text-align: left;
+}
+.envato-kit-221-no-link .elementor-button-link {
+	cursor: text;
+	pointer-events: none;
+}
+
+.envato-kit-221-price-style .elementor-price-table__header {
+	display: flex;
+	flex-direction: column-reverse;
+	align-items: flex-start;
+}
+.envato-kit-221-price-style .elementor-price-table__price {
+	justify-content: flex-start;
+}
+.envato-kit-221-price-style .elementor-price-table__feature-inner i {
+	font-size: 0.3em;
+	vertical-align: middle;
+	margin-right: 4px;
+}
+.envato-kit-221-price-style .elementor-price-table__footer {
+	text-align: left;
+}
+
+.envato-kit-221-row-style-hover.elementor-column {
+	transform: translateY(0);
+	transition: all .5s ease-in-out;
+}
+.envato-kit-221-row-style-hover.elementor-column:hover {
+	transform: translateY(-10px);
+	z-index: 4;
+	opacity: 1;
+}
+
+.envato-kit-221-price-color-style .elementor-price-list .elementor-price-list-price {
+	color: #E12C3D;
+}
+
+.envato-kit-221-services-block-hover-style.elementor-column:hover .elementor-heading-title,
+.envato-kit-221-services-block-hover-style.elementor-column:hover .elementor-text-editor {
+	transition: color .3s ease-in-out;
+	color: #ffffff !important;
+}
+
+.envato-kit-221-accordion-style.elementor-widget-accordion .elementor-accordion-item .elementor-tab-title {
+	transition: all .3s ease-in-out;	
+}
+.envato-kit-221-accordion-style.elementor-widget-accordion .elementor-accordion-item .elementor-tab-title.elementor-active {
+	padding: 42px 43px 20px 43px;
+}
+.envato-kit-221-accordion-style .elementor-accordion .elementor-tab-content {
+	border-top: none;
+}
+
+.envato-kit-221-icon-list-style .elementor-icon-list-icon i {
+	position: relative;
+	bottom: 2px;
+	vertical-align: middle;
+}

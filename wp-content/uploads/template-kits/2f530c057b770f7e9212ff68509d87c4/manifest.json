@@ -1,0 +1,911 @@
+{
+    "manifest_version": "1.0.20",
+    "title": "Vibranet \u2013 Broadband & Internet Service Provider Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kit.baliniz.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Check Area",
+            "screenshot": "screenshots\/metform-check-area.jpg",
+            "source": "templates\/metform-check-area.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/vibranet\/template-kit\/metform-check-area\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/vibranet\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/vibranet\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Appointment",
+            "screenshot": "screenshots\/metform-appointment.jpg",
+            "source": "templates\/metform-appointment.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/vibranet\/template-kit\/metform-appointment\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Packages",
+            "screenshot": "screenshots\/packages.jpg",
+            "source": "templates\/packages.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/vibranet\/template-kit\/packages\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/vibranet\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/vibranet\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/vibranet\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/vibranet\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/vibranet\/template-kit\/single-post\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/vibranet\/template-kit\/metform-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/vibranet\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/vibranet\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/vibranet\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/vibranet\/template-kit\/404-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.3.6",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.4",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.0.0",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegstudio"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.5.4",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.4.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "family-using-smartphone-browsing-internet-together-at-home-on-weekend-e1632233039857.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/family-using-smartphone-browsing-internet-together-at-home-on-weekend-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 261202,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4G2HX5W"
+        },
+        {
+            "filename": "young-asian-spouses-relaxing-using-digital-tablet-browsing-internet-indoors-e1632233092206.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/young-asian-spouses-relaxing-using-digital-tablet-browsing-internet-indoors-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 212559,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GNC8B3Z"
+        },
+        {
+            "filename": "cheerful-asian-couple-using-digital-tablet-browsing-internet-at-home-e1632233019492.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/cheerful-asian-couple-using-digital-tablet-browsing-internet-at-home-800x524.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 230689,
+            "dimensions": [
+                1920,
+                1258
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FH4LJ3H"
+        },
+        {
+            "filename": "family-time-happy-dad-and-son-using-digital-tablet-browsing-internet-online-at-home-sitting-e1632233068896.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/family-time-happy-dad-and-son-using-digital-tablet-browsing-internet-online-at-home-sitting-800x535.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 216613,
+            "dimensions": [
+                1920,
+                1284
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RWPRKYC"
+        },
+        {
+            "filename": "back.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/back-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 198178,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-2PJAB3"
+        },
+        {
+            "filename": "world.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/world-800x401.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 126439,
+            "dimensions": [
+                1230,
+                616
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/worldmap-background-design_1019996.htm"
+        },
+        {
+            "filename": "work-from-home-concept-couple-online-internet-working-together-using-headphone-e1632233055811.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/work-from-home-concept-couple-online-internet-working-together-using-headphone-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 159434,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SNRPCZE"
+        },
+        {
+            "filename": "business-technology-and-people-concept-creative-team-or-designers-working-in-office-e1632233122340.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/business-technology-and-people-concept-creative-team-or-designers-working-in-office-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 296037,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XA5D6Q9"
+        },
+        {
+            "filename": "team-H4UN4EK.jpg.png.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/team-H4UN4EK.jpg.png-800x787.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 174866,
+            "dimensions": [
+                1024,
+                1007
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-H4UN4EK"
+        },
+        {
+            "filename": "technician-5VWU5RS.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/technician-5VWU5RS-800x787.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 268104,
+            "dimensions": [
+                1024,
+                1007
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5VWU5RS"
+        },
+        {
+            "filename": "team-89BD3CX.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/team-89BD3CX-800x787.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 172680,
+            "dimensions": [
+                1024,
+                1007
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-89BD3CX"
+        },
+        {
+            "filename": "woman-connecting-to-wi-fi-router-e1632233158828.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/woman-connecting-to-wi-fi-router-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                }
+            ],
+            "filesize": 146193,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-N5YLVZZ"
+        },
+        {
+            "filename": "weekend-family-leisure-happy-father-and-son-using-tablet-computer-browsing-internet-online-at-home-e1632233062952.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/weekend-family-leisure-happy-father-and-son-using-tablet-computer-browsing-internet-online-at-home-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 235678,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5DMNVYJ"
+        },
+        {
+            "filename": "engineers-design-wi-fi-install--e1632233142654.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/engineers-design-wi-fi-install--800x526.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 183295,
+            "dimensions": [
+                1920,
+                1261
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PS6DPQU"
+        },
+        {
+            "filename": "happy-african-american-family-holding-and-using-smartphone-e1632233083514.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/happy-african-american-family-holding-and-using-smartphone-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 248247,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-736NPU5"
+        },
+        {
+            "filename": "MKLVKTE.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/MKLVKTE.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 59237,
+            "dimensions": [
+                320,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MKLVKTE"
+        },
+        {
+            "filename": "CASCKD8.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/CASCKD8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 52477,
+            "dimensions": [
+                320,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CASCKD8"
+        },
+        {
+            "filename": "3SUMAU.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/3SUMAU.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 56794,
+            "dimensions": [
+                320,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3SUMAU"
+        },
+        {
+            "filename": "UUFGSJH.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/UUFGSJH.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 57515,
+            "dimensions": [
+                320,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UUFGSJH"
+        },
+        {
+            "filename": "business-technology-and-people-concept-creative-team-or-designers-working-in-office-1-e1632233177505.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/business-technology-and-people-concept-creative-team-or-designers-working-in-office-1-800x510.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 256978,
+            "dimensions": [
+                1920,
+                1225
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DYACE9Z"
+        },
+        {
+            "filename": "team-B44T8UK.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/team-B44T8UK-800x787.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 262121,
+            "dimensions": [
+                1024,
+                1007
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-B44T8UK"
+        },
+        {
+            "filename": "technician-W8UDE5T.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/technician-W8UDE5T-800x787.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 197350,
+            "dimensions": [
+                1024,
+                1007
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-W8UDE5T"
+        },
+        {
+            "filename": "engineer-V2XW297.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/engineer-V2XW297-800x787.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 235600,
+            "dimensions": [
+                1024,
+                1007
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-V2XW297"
+        },
+        {
+            "filename": "pattern.jpeg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/pattern-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 192072,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-QKPSLY"
+        },
+        {
+            "filename": "technology-in-business-e1632233226967.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/technology-in-business-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 232040,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5CJCEG9"
+        },
+        {
+            "filename": "family-gadgets-concept-happy-father-showing-new-app-to-his-son-surfing-internet-at-home-e1632233027487.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/family-gadgets-concept-happy-father-showing-new-app-to-his-son-surfing-internet-at-home-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 266474,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7WAKZQ5"
+        },
+        {
+            "filename": "business-teamwork-e1632233235612.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/business-teamwork-800x475.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 288465,
+            "dimensions": [
+                1920,
+                1140
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-V2M7ZTY"
+        },
+        {
+            "filename": "scheduling-appointments-e1632233217641.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/scheduling-appointments-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 312376,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Y5ZXE2F"
+        },
+        {
+            "filename": "Logo.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/Logo-800x169.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 15628,
+            "dimensions": [
+                1166,
+                247
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/v-logo-template-set_9467480.htm"
+        },
+        {
+            "filename": "logo-2.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/logo-2-800x169.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 16600,
+            "dimensions": [
+                1166,
+                247
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/v-logo-template-set_9467480.htm"
+        },
+        {
+            "filename": "cropped-view-of-businessman-plugging-router-while-holding-smartphone-e1632233197111.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/vibranet\/wp-content\/uploads\/sites\/14\/2021\/09\/cropped-view-of-businessman-plugging-router-while-holding-smartphone-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 166372,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HV7QA6B"
+        }
+    ]
+}

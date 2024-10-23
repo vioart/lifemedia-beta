@@ -1,0 +1,1967 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Consultco - Consulting Business Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/consultcokit.wpolive.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Consultco-Main Header",
+            "screenshot": "screenshots\/consultco-main-header.png",
+            "source": "templates\/consultco-main-header.json",
+            "preview_url": "https:\/\/consultcokit.wpolive.com\/template-kit\/consultco-main-header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Consultco-Header Style 2",
+            "screenshot": "screenshots\/consultco-header-style-2.png",
+            "source": "templates\/consultco-header-style-2.json",
+            "preview_url": "https:\/\/consultcokit.wpolive.com\/template-kit\/consultco-header-style-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Consultco-Footer",
+            "screenshot": "screenshots\/consultco-footer.png",
+            "source": "templates\/consultco-footer.json",
+            "preview_url": "https:\/\/consultcokit.wpolive.com\/template-kit\/consultco-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Consultco-Home page",
+            "screenshot": "screenshots\/consultco-home-page.png",
+            "source": "templates\/consultco-home-page.json",
+            "preview_url": "https:\/\/consultcokit.wpolive.com\/template-kit\/home-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Consultco-Home Style 2",
+            "screenshot": "screenshots\/consultco-home-style-2.png",
+            "source": "templates\/consultco-home-style-2.json",
+            "preview_url": "https:\/\/consultcokit.wpolive.com\/template-kit\/consultco-home-style-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Consultco-About Page",
+            "screenshot": "screenshots\/consultco-about-page.png",
+            "source": "templates\/consultco-about-page.json",
+            "preview_url": "https:\/\/consultcokit.wpolive.com\/template-kit\/consultco-about-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Consultco-Services Page",
+            "screenshot": "screenshots\/consultco-services-page.png",
+            "source": "templates\/consultco-services-page.json",
+            "preview_url": "https:\/\/consultcokit.wpolive.com\/template-kit\/consultco-services-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Consultco-Service Style 2",
+            "screenshot": "screenshots\/consultco-service-style-2.png",
+            "source": "templates\/consultco-service-style-2.json",
+            "preview_url": "https:\/\/consultcokit.wpolive.com\/template-kit\/consultco-service-style-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Consultco-Services Single Page",
+            "screenshot": "screenshots\/consultco-services-single-page.png",
+            "source": "templates\/consultco-services-single-page.json",
+            "preview_url": "https:\/\/consultcokit.wpolive.com\/template-kit\/consultar-services-single-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Consultco-Projects Page",
+            "screenshot": "screenshots\/consultco-projects-page.png",
+            "source": "templates\/consultco-projects-page.json",
+            "preview_url": "https:\/\/consultcokit.wpolive.com\/template-kit\/consultco-projects-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Consultco-Projects Style 2",
+            "screenshot": "screenshots\/consultco-projects-style-2.png",
+            "source": "templates\/consultco-projects-style-2.json",
+            "preview_url": "https:\/\/consultcokit.wpolive.com\/template-kit\/consultco-projects-style-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Consultco-Projects Single Page",
+            "screenshot": "screenshots\/consultco-projects-single-page.png",
+            "source": "templates\/consultco-projects-single-page.json",
+            "preview_url": "https:\/\/consultcokit.wpolive.com\/template-kit\/consultco-projects-single-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Consultco-Testimonial Page",
+            "screenshot": "screenshots\/consultco-testimonial-page.png",
+            "source": "templates\/consultco-testimonial-page.json",
+            "preview_url": "https:\/\/consultcokit.wpolive.com\/template-kit\/consultco-testimonial-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Consultco-Pricing Page",
+            "screenshot": "screenshots\/consultco-pricing-page.png",
+            "source": "templates\/consultco-pricing-page.json",
+            "preview_url": "https:\/\/consultcokit.wpolive.com\/template-kit\/consultco-pricing-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Consultco-404 Page",
+            "screenshot": "screenshots\/consultco-404-page.png",
+            "source": "templates\/consultco-404-page.json",
+            "preview_url": "https:\/\/consultcokit.wpolive.com\/template-kit\/consultco-404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Consultco-Blog right sidebar",
+            "screenshot": "screenshots\/consultco-blog-right-sidebar.png",
+            "source": "templates\/consultco-blog-right-sidebar.json",
+            "preview_url": "https:\/\/consultcokit.wpolive.com\/template-kit\/consultco-blog-right-sidebar\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Consultco-Blog Left Sidebar page",
+            "screenshot": "screenshots\/consultco-blog-left-sidebar-page.png",
+            "source": "templates\/consultco-blog-left-sidebar-page.json",
+            "preview_url": "https:\/\/consultcokit.wpolive.com\/template-kit\/consultco-blog-left-sidebar-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Consultco-Blog fullwidth Page",
+            "screenshot": "screenshots\/consultco-blog-fullwidth-page.png",
+            "source": "templates\/consultco-blog-fullwidth-page.json",
+            "preview_url": "https:\/\/consultcokit.wpolive.com\/template-kit\/consultco-blog-fullwidth-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Consultco-Blog Details page",
+            "screenshot": "screenshots\/consultco-blog-details-page.png",
+            "source": "templates\/consultco-blog-details-page.json",
+            "preview_url": "https:\/\/consultcokit.wpolive.com\/template-kit\/consultco-blog-details-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Consultco-Contact Page",
+            "screenshot": "screenshots\/consultco-contact-page.png",
+            "source": "templates\/consultco-contact-page.json",
+            "preview_url": "https:\/\/consultcokit.wpolive.com\/template-kit\/consultco-contact-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Consultco-Service Single Form",
+            "screenshot": "screenshots\/consultco-service-single-form.png",
+            "source": "templates\/consultco-service-single-form.json",
+            "preview_url": "https:\/\/consultcokit.wpolive.com\/template-kit\/consultco-service-single-form\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Consultco-Contcat Form",
+            "screenshot": "screenshots\/consultco-contcat-form.png",
+            "source": "templates\/consultco-contcat-form.json",
+            "preview_url": "https:\/\/consultcokit.wpolive.com\/template-kit\/consultco-contcat-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.18.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.6.2",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.8.2",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "header-logo.png",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/header-logo.png",
+            "templates": [
+                {
+                    "source": "templates\/consultco-main-header.json",
+                    "name": "Consultco-Main Header"
+                },
+                {
+                    "source": "templates\/consultco-header-style-2.json",
+                    "name": "Consultco-Header Style 2"
+                },
+                {
+                    "source": "templates\/consultco-about-page.json",
+                    "name": "Consultco-About Page"
+                },
+                {
+                    "source": "templates\/consultco-services-page.json",
+                    "name": "Consultco-Services Page"
+                },
+                {
+                    "source": "templates\/consultco-service-style-2.json",
+                    "name": "Consultco-Service Style 2"
+                },
+                {
+                    "source": "templates\/consultco-services-single-page.json",
+                    "name": "Consultco-Services Single Page"
+                },
+                {
+                    "source": "templates\/consultco-projects-page.json",
+                    "name": "Consultco-Projects Page"
+                },
+                {
+                    "source": "templates\/consultco-projects-style-2.json",
+                    "name": "Consultco-Projects Style 2"
+                },
+                {
+                    "source": "templates\/consultco-projects-single-page.json",
+                    "name": "Consultco-Projects Single Page"
+                },
+                {
+                    "source": "templates\/consultco-testimonial-page.json",
+                    "name": "Consultco-Testimonial Page"
+                },
+                {
+                    "source": "templates\/consultco-pricing-page.json",
+                    "name": "Consultco-Pricing Page"
+                },
+                {
+                    "source": "templates\/consultco-404-page.json",
+                    "name": "Consultco-404 Page"
+                },
+                {
+                    "source": "templates\/consultco-blog-right-sidebar.json",
+                    "name": "Consultco-Blog right sidebar"
+                },
+                {
+                    "source": "templates\/consultco-blog-left-sidebar-page.json",
+                    "name": "Consultco-Blog Left Sidebar page"
+                },
+                {
+                    "source": "templates\/consultco-blog-fullwidth-page.json",
+                    "name": "Consultco-Blog fullwidth Page"
+                },
+                {
+                    "source": "templates\/consultco-blog-details-page.json",
+                    "name": "Consultco-Blog Details page"
+                },
+                {
+                    "source": "templates\/consultco-contact-page.json",
+                    "name": "Consultco-Contact Page"
+                }
+            ],
+            "filesize": 1542,
+            "dimensions": [
+                205,
+                46
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/luxury-fashion-logo-circle-abstract-linear-outline-3JAKXGF"
+        },
+        {
+            "filename": "footer_logo.png",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/footer_logo.png",
+            "templates": [
+                {
+                    "source": "templates\/consultco-footer.json",
+                    "name": "Consultco-Footer"
+                },
+                {
+                    "source": "templates\/consultco-about-page.json",
+                    "name": "Consultco-About Page"
+                },
+                {
+                    "source": "templates\/consultco-services-page.json",
+                    "name": "Consultco-Services Page"
+                },
+                {
+                    "source": "templates\/consultco-service-style-2.json",
+                    "name": "Consultco-Service Style 2"
+                },
+                {
+                    "source": "templates\/consultco-services-single-page.json",
+                    "name": "Consultco-Services Single Page"
+                },
+                {
+                    "source": "templates\/consultco-projects-page.json",
+                    "name": "Consultco-Projects Page"
+                },
+                {
+                    "source": "templates\/consultco-projects-style-2.json",
+                    "name": "Consultco-Projects Style 2"
+                },
+                {
+                    "source": "templates\/consultco-projects-single-page.json",
+                    "name": "Consultco-Projects Single Page"
+                },
+                {
+                    "source": "templates\/consultco-testimonial-page.json",
+                    "name": "Consultco-Testimonial Page"
+                },
+                {
+                    "source": "templates\/consultco-pricing-page.json",
+                    "name": "Consultco-Pricing Page"
+                },
+                {
+                    "source": "templates\/consultco-404-page.json",
+                    "name": "Consultco-404 Page"
+                },
+                {
+                    "source": "templates\/consultco-blog-right-sidebar.json",
+                    "name": "Consultco-Blog right sidebar"
+                },
+                {
+                    "source": "templates\/consultco-blog-left-sidebar-page.json",
+                    "name": "Consultco-Blog Left Sidebar page"
+                },
+                {
+                    "source": "templates\/consultco-blog-fullwidth-page.json",
+                    "name": "Consultco-Blog fullwidth Page"
+                },
+                {
+                    "source": "templates\/consultco-blog-details-page.json",
+                    "name": "Consultco-Blog Details page"
+                },
+                {
+                    "source": "templates\/consultco-contact-page.json",
+                    "name": "Consultco-Contact Page"
+                }
+            ],
+            "filesize": 1550,
+            "dimensions": [
+                205,
+                46
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/luxury-fashion-logo-circle-abstract-linear-outline-3JAKXGF"
+        },
+        {
+            "filename": "project-1.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/project-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-footer.json",
+                    "name": "Consultco-Footer"
+                },
+                {
+                    "source": "templates\/consultco-about-page.json",
+                    "name": "Consultco-About Page"
+                },
+                {
+                    "source": "templates\/consultco-services-page.json",
+                    "name": "Consultco-Services Page"
+                },
+                {
+                    "source": "templates\/consultco-service-style-2.json",
+                    "name": "Consultco-Service Style 2"
+                },
+                {
+                    "source": "templates\/consultco-services-single-page.json",
+                    "name": "Consultco-Services Single Page"
+                },
+                {
+                    "source": "templates\/consultco-projects-page.json",
+                    "name": "Consultco-Projects Page"
+                },
+                {
+                    "source": "templates\/consultco-projects-style-2.json",
+                    "name": "Consultco-Projects Style 2"
+                },
+                {
+                    "source": "templates\/consultco-projects-single-page.json",
+                    "name": "Consultco-Projects Single Page"
+                },
+                {
+                    "source": "templates\/consultco-testimonial-page.json",
+                    "name": "Consultco-Testimonial Page"
+                },
+                {
+                    "source": "templates\/consultco-pricing-page.json",
+                    "name": "Consultco-Pricing Page"
+                },
+                {
+                    "source": "templates\/consultco-404-page.json",
+                    "name": "Consultco-404 Page"
+                },
+                {
+                    "source": "templates\/consultco-blog-right-sidebar.json",
+                    "name": "Consultco-Blog right sidebar"
+                },
+                {
+                    "source": "templates\/consultco-blog-left-sidebar-page.json",
+                    "name": "Consultco-Blog Left Sidebar page"
+                },
+                {
+                    "source": "templates\/consultco-blog-fullwidth-page.json",
+                    "name": "Consultco-Blog fullwidth Page"
+                },
+                {
+                    "source": "templates\/consultco-blog-details-page.json",
+                    "name": "Consultco-Blog Details page"
+                },
+                {
+                    "source": "templates\/consultco-contact-page.json",
+                    "name": "Consultco-Contact Page"
+                }
+            ],
+            "filesize": 84622,
+            "dimensions": [
+                600,
+                743
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/two-beautiful-asian-businesswomen-standing-using-d-5UVREVJ"
+        },
+        {
+            "filename": "project-3.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/project-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-footer.json",
+                    "name": "Consultco-Footer"
+                },
+                {
+                    "source": "templates\/consultco-home-page.json",
+                    "name": "Consultco-Home page"
+                },
+                {
+                    "source": "templates\/consultco-home-style-2.json",
+                    "name": "Consultco-Home Style 2"
+                },
+                {
+                    "source": "templates\/consultco-about-page.json",
+                    "name": "Consultco-About Page"
+                },
+                {
+                    "source": "templates\/consultco-services-page.json",
+                    "name": "Consultco-Services Page"
+                },
+                {
+                    "source": "templates\/consultco-service-style-2.json",
+                    "name": "Consultco-Service Style 2"
+                },
+                {
+                    "source": "templates\/consultco-services-single-page.json",
+                    "name": "Consultco-Services Single Page"
+                },
+                {
+                    "source": "templates\/consultco-projects-page.json",
+                    "name": "Consultco-Projects Page"
+                },
+                {
+                    "source": "templates\/consultco-projects-style-2.json",
+                    "name": "Consultco-Projects Style 2"
+                },
+                {
+                    "source": "templates\/consultco-projects-single-page.json",
+                    "name": "Consultco-Projects Single Page"
+                },
+                {
+                    "source": "templates\/consultco-testimonial-page.json",
+                    "name": "Consultco-Testimonial Page"
+                },
+                {
+                    "source": "templates\/consultco-pricing-page.json",
+                    "name": "Consultco-Pricing Page"
+                },
+                {
+                    "source": "templates\/consultco-404-page.json",
+                    "name": "Consultco-404 Page"
+                },
+                {
+                    "source": "templates\/consultco-blog-right-sidebar.json",
+                    "name": "Consultco-Blog right sidebar"
+                },
+                {
+                    "source": "templates\/consultco-blog-left-sidebar-page.json",
+                    "name": "Consultco-Blog Left Sidebar page"
+                },
+                {
+                    "source": "templates\/consultco-blog-fullwidth-page.json",
+                    "name": "Consultco-Blog fullwidth Page"
+                },
+                {
+                    "source": "templates\/consultco-blog-details-page.json",
+                    "name": "Consultco-Blog Details page"
+                },
+                {
+                    "source": "templates\/consultco-contact-page.json",
+                    "name": "Consultco-Contact Page"
+                }
+            ],
+            "filesize": 89711,
+            "dimensions": [
+                600,
+                743
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-woman-standing-outside-the-office-buildin-8DSNDV8"
+        },
+        {
+            "filename": "project-2.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/project-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-footer.json",
+                    "name": "Consultco-Footer"
+                },
+                {
+                    "source": "templates\/consultco-about-page.json",
+                    "name": "Consultco-About Page"
+                },
+                {
+                    "source": "templates\/consultco-services-page.json",
+                    "name": "Consultco-Services Page"
+                },
+                {
+                    "source": "templates\/consultco-service-style-2.json",
+                    "name": "Consultco-Service Style 2"
+                },
+                {
+                    "source": "templates\/consultco-services-single-page.json",
+                    "name": "Consultco-Services Single Page"
+                },
+                {
+                    "source": "templates\/consultco-projects-page.json",
+                    "name": "Consultco-Projects Page"
+                },
+                {
+                    "source": "templates\/consultco-projects-style-2.json",
+                    "name": "Consultco-Projects Style 2"
+                },
+                {
+                    "source": "templates\/consultco-projects-single-page.json",
+                    "name": "Consultco-Projects Single Page"
+                },
+                {
+                    "source": "templates\/consultco-testimonial-page.json",
+                    "name": "Consultco-Testimonial Page"
+                },
+                {
+                    "source": "templates\/consultco-pricing-page.json",
+                    "name": "Consultco-Pricing Page"
+                },
+                {
+                    "source": "templates\/consultco-404-page.json",
+                    "name": "Consultco-404 Page"
+                },
+                {
+                    "source": "templates\/consultco-blog-right-sidebar.json",
+                    "name": "Consultco-Blog right sidebar"
+                },
+                {
+                    "source": "templates\/consultco-blog-left-sidebar-page.json",
+                    "name": "Consultco-Blog Left Sidebar page"
+                },
+                {
+                    "source": "templates\/consultco-blog-fullwidth-page.json",
+                    "name": "Consultco-Blog fullwidth Page"
+                },
+                {
+                    "source": "templates\/consultco-blog-details-page.json",
+                    "name": "Consultco-Blog Details page"
+                },
+                {
+                    "source": "templates\/consultco-contact-page.json",
+                    "name": "Consultco-Contact Page"
+                }
+            ],
+            "filesize": 91535,
+            "dimensions": [
+                600,
+                743
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/engineer-businessman-talking-together-with-busines-KC8CUSQ"
+        },
+        {
+            "filename": "project-7.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/project-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-footer.json",
+                    "name": "Consultco-Footer"
+                },
+                {
+                    "source": "templates\/consultco-about-page.json",
+                    "name": "Consultco-About Page"
+                },
+                {
+                    "source": "templates\/consultco-services-page.json",
+                    "name": "Consultco-Services Page"
+                },
+                {
+                    "source": "templates\/consultco-service-style-2.json",
+                    "name": "Consultco-Service Style 2"
+                },
+                {
+                    "source": "templates\/consultco-services-single-page.json",
+                    "name": "Consultco-Services Single Page"
+                },
+                {
+                    "source": "templates\/consultco-projects-page.json",
+                    "name": "Consultco-Projects Page"
+                },
+                {
+                    "source": "templates\/consultco-projects-style-2.json",
+                    "name": "Consultco-Projects Style 2"
+                },
+                {
+                    "source": "templates\/consultco-projects-single-page.json",
+                    "name": "Consultco-Projects Single Page"
+                },
+                {
+                    "source": "templates\/consultco-testimonial-page.json",
+                    "name": "Consultco-Testimonial Page"
+                },
+                {
+                    "source": "templates\/consultco-pricing-page.json",
+                    "name": "Consultco-Pricing Page"
+                },
+                {
+                    "source": "templates\/consultco-404-page.json",
+                    "name": "Consultco-404 Page"
+                },
+                {
+                    "source": "templates\/consultco-blog-right-sidebar.json",
+                    "name": "Consultco-Blog right sidebar"
+                },
+                {
+                    "source": "templates\/consultco-blog-left-sidebar-page.json",
+                    "name": "Consultco-Blog Left Sidebar page"
+                },
+                {
+                    "source": "templates\/consultco-blog-fullwidth-page.json",
+                    "name": "Consultco-Blog fullwidth Page"
+                },
+                {
+                    "source": "templates\/consultco-blog-details-page.json",
+                    "name": "Consultco-Blog Details page"
+                },
+                {
+                    "source": "templates\/consultco-contact-page.json",
+                    "name": "Consultco-Contact Page"
+                }
+            ],
+            "filesize": 55240,
+            "dimensions": [
+                600,
+                743
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/lady-talking-on-phone-while-working-on-computer-in-T59A8YJ"
+        },
+        {
+            "filename": "project-6.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/project-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-footer.json",
+                    "name": "Consultco-Footer"
+                },
+                {
+                    "source": "templates\/consultco-about-page.json",
+                    "name": "Consultco-About Page"
+                },
+                {
+                    "source": "templates\/consultco-services-page.json",
+                    "name": "Consultco-Services Page"
+                },
+                {
+                    "source": "templates\/consultco-service-style-2.json",
+                    "name": "Consultco-Service Style 2"
+                },
+                {
+                    "source": "templates\/consultco-services-single-page.json",
+                    "name": "Consultco-Services Single Page"
+                },
+                {
+                    "source": "templates\/consultco-projects-page.json",
+                    "name": "Consultco-Projects Page"
+                },
+                {
+                    "source": "templates\/consultco-projects-style-2.json",
+                    "name": "Consultco-Projects Style 2"
+                },
+                {
+                    "source": "templates\/consultco-projects-single-page.json",
+                    "name": "Consultco-Projects Single Page"
+                },
+                {
+                    "source": "templates\/consultco-testimonial-page.json",
+                    "name": "Consultco-Testimonial Page"
+                },
+                {
+                    "source": "templates\/consultco-pricing-page.json",
+                    "name": "Consultco-Pricing Page"
+                },
+                {
+                    "source": "templates\/consultco-404-page.json",
+                    "name": "Consultco-404 Page"
+                },
+                {
+                    "source": "templates\/consultco-blog-right-sidebar.json",
+                    "name": "Consultco-Blog right sidebar"
+                },
+                {
+                    "source": "templates\/consultco-blog-left-sidebar-page.json",
+                    "name": "Consultco-Blog Left Sidebar page"
+                },
+                {
+                    "source": "templates\/consultco-blog-fullwidth-page.json",
+                    "name": "Consultco-Blog fullwidth Page"
+                },
+                {
+                    "source": "templates\/consultco-blog-details-page.json",
+                    "name": "Consultco-Blog Details page"
+                },
+                {
+                    "source": "templates\/consultco-contact-page.json",
+                    "name": "Consultco-Contact Page"
+                }
+            ],
+            "filesize": 84579,
+            "dimensions": [
+                600,
+                743
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/professional-broker-YWNF64J"
+        },
+        {
+            "filename": "project-4.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/project-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-footer.json",
+                    "name": "Consultco-Footer"
+                },
+                {
+                    "source": "templates\/consultco-about-page.json",
+                    "name": "Consultco-About Page"
+                },
+                {
+                    "source": "templates\/consultco-services-page.json",
+                    "name": "Consultco-Services Page"
+                },
+                {
+                    "source": "templates\/consultco-service-style-2.json",
+                    "name": "Consultco-Service Style 2"
+                },
+                {
+                    "source": "templates\/consultco-services-single-page.json",
+                    "name": "Consultco-Services Single Page"
+                },
+                {
+                    "source": "templates\/consultco-projects-page.json",
+                    "name": "Consultco-Projects Page"
+                },
+                {
+                    "source": "templates\/consultco-projects-style-2.json",
+                    "name": "Consultco-Projects Style 2"
+                },
+                {
+                    "source": "templates\/consultco-projects-single-page.json",
+                    "name": "Consultco-Projects Single Page"
+                },
+                {
+                    "source": "templates\/consultco-testimonial-page.json",
+                    "name": "Consultco-Testimonial Page"
+                },
+                {
+                    "source": "templates\/consultco-pricing-page.json",
+                    "name": "Consultco-Pricing Page"
+                },
+                {
+                    "source": "templates\/consultco-404-page.json",
+                    "name": "Consultco-404 Page"
+                },
+                {
+                    "source": "templates\/consultco-blog-right-sidebar.json",
+                    "name": "Consultco-Blog right sidebar"
+                },
+                {
+                    "source": "templates\/consultco-blog-left-sidebar-page.json",
+                    "name": "Consultco-Blog Left Sidebar page"
+                },
+                {
+                    "source": "templates\/consultco-blog-fullwidth-page.json",
+                    "name": "Consultco-Blog fullwidth Page"
+                },
+                {
+                    "source": "templates\/consultco-blog-details-page.json",
+                    "name": "Consultco-Blog Details page"
+                },
+                {
+                    "source": "templates\/consultco-contact-page.json",
+                    "name": "Consultco-Contact Page"
+                }
+            ],
+            "filesize": 65526,
+            "dimensions": [
+                600,
+                743
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-people-shaking-hands-in-the-office-UFYBVEL"
+        },
+        {
+            "filename": "client-2.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/client-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-home-page.json",
+                    "name": "Consultco-Home page"
+                }
+            ],
+            "filesize": 5109,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-woman-standing-outside-the-office-buildin-8DSNDV8"
+        },
+        {
+            "filename": "client-3.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/client-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-home-page.json",
+                    "name": "Consultco-Home page"
+                }
+            ],
+            "filesize": 4974,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/professional-broker-YWNF64J"
+        },
+        {
+            "filename": "client-4.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/client-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-home-page.json",
+                    "name": "Consultco-Home page"
+                }
+            ],
+            "filesize": 3952,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/two-beautiful-asian-businesswomen-standing-using-d-5UVREVJ"
+        },
+        {
+            "filename": "client-1.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/client-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-home-page.json",
+                    "name": "Consultco-Home page"
+                }
+            ],
+            "filesize": 4598,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/office-portrait-ceo-and-business-man-happy-for-sta-43ZFX64"
+        },
+        {
+            "filename": "approved.png",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/approved.png",
+            "templates": [
+                {
+                    "source": "templates\/consultco-home-page.json",
+                    "name": "Consultco-Home page"
+                },
+                {
+                    "source": "templates\/consultco-home-style-2.json",
+                    "name": "Consultco-Home Style 2"
+                },
+                {
+                    "source": "templates\/consultco-services-page.json",
+                    "name": "Consultco-Services Page"
+                },
+                {
+                    "source": "templates\/consultco-services-single-page.json",
+                    "name": "Consultco-Services Single Page"
+                },
+                {
+                    "source": "templates\/consultco-projects-single-page.json",
+                    "name": "Consultco-Projects Single Page"
+                }
+            ],
+            "filesize": 5702,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/approved_11482321"
+        },
+        {
+            "filename": "statistics.png",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/statistics.png",
+            "templates": [
+                {
+                    "source": "templates\/consultco-home-page.json",
+                    "name": "Consultco-Home page"
+                },
+                {
+                    "source": "templates\/consultco-home-style-2.json",
+                    "name": "Consultco-Home Style 2"
+                },
+                {
+                    "source": "templates\/consultco-services-page.json",
+                    "name": "Consultco-Services Page"
+                },
+                {
+                    "source": "templates\/consultco-services-single-page.json",
+                    "name": "Consultco-Services Single Page"
+                },
+                {
+                    "source": "templates\/consultco-projects-single-page.json",
+                    "name": "Consultco-Projects Single Page"
+                }
+            ],
+            "filesize": 6370,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/statistics_7009962?term=bar-graph&page=1&position=2&origin=style&related_id=7009962"
+        },
+        {
+            "filename": "wallet.png",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/wallet.png",
+            "templates": [
+                {
+                    "source": "templates\/consultco-home-page.json",
+                    "name": "Consultco-Home page"
+                },
+                {
+                    "source": "templates\/consultco-home-style-2.json",
+                    "name": "Consultco-Home Style 2"
+                },
+                {
+                    "source": "templates\/consultco-services-single-page.json",
+                    "name": "Consultco-Services Single Page"
+                },
+                {
+                    "source": "templates\/consultco-projects-single-page.json",
+                    "name": "Consultco-Projects Single Page"
+                }
+            ],
+            "filesize": 5520,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/wallet_4021451?term=wallet&page=1&position=9&origin=style&related_id=4021451"
+        },
+        {
+            "filename": "about-2.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/about-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-home-page.json",
+                    "name": "Consultco-Home page"
+                },
+                {
+                    "source": "templates\/consultco-about-page.json",
+                    "name": "Consultco-About Page"
+                }
+            ],
+            "filesize": 50845,
+            "dimensions": [
+                504,
+                650
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-working-on-laptop-at-home-SW3VD2E"
+        },
+        {
+            "filename": "shape-2.png",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/shape-2.png",
+            "templates": [
+                {
+                    "source": "templates\/consultco-home-page.json",
+                    "name": "Consultco-Home page"
+                },
+                {
+                    "source": "templates\/consultco-home-style-2.json",
+                    "name": "Consultco-Home Style 2"
+                },
+                {
+                    "source": "templates\/consultco-about-page.json",
+                    "name": "Consultco-About Page"
+                }
+            ],
+            "filesize": 5229,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "ab-shape-1.png",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/ab-shape-1.png",
+            "templates": [
+                {
+                    "source": "templates\/consultco-home-page.json",
+                    "name": "Consultco-Home page"
+                },
+                {
+                    "source": "templates\/consultco-home-style-2.json",
+                    "name": "Consultco-Home Style 2"
+                },
+                {
+                    "source": "templates\/consultco-about-page.json",
+                    "name": "Consultco-About Page"
+                }
+            ],
+            "filesize": 4624,
+            "dimensions": [
+                198,
+                197
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "star-badge.png",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/star-badge.png",
+            "templates": [
+                {
+                    "source": "templates\/consultco-home-page.json",
+                    "name": "Consultco-Home page"
+                },
+                {
+                    "source": "templates\/consultco-home-style-2.json",
+                    "name": "Consultco-Home Style 2"
+                },
+                {
+                    "source": "templates\/consultco-about-page.json",
+                    "name": "Consultco-About Page"
+                },
+                {
+                    "source": "templates\/consultco-services-page.json",
+                    "name": "Consultco-Services Page"
+                }
+            ],
+            "filesize": 3287,
+            "dimensions": [
+                128,
+                128
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/badge_7855703?term=badge&page=1&position=1&origin=style&related_id=7855703"
+        },
+        {
+            "filename": "signeture.png",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/signeture.png",
+            "templates": [
+                {
+                    "source": "templates\/consultco-home-page.json",
+                    "name": "Consultco-Home page"
+                },
+                {
+                    "source": "templates\/consultco-home-style-2.json",
+                    "name": "Consultco-Home Style 2"
+                },
+                {
+                    "source": "templates\/consultco-about-page.json",
+                    "name": "Consultco-About Page"
+                }
+            ],
+            "filesize": 1088,
+            "dimensions": [
+                96,
+                44
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "briefcase.png",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/briefcase.png",
+            "templates": [
+                {
+                    "source": "templates\/consultco-home-page.json",
+                    "name": "Consultco-Home page"
+                },
+                {
+                    "source": "templates\/consultco-services-page.json",
+                    "name": "Consultco-Services Page"
+                }
+            ],
+            "filesize": 4478,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/briefcase_9186271?term=briefcase&page=1&position=33&origin=style&related_id=9186271"
+        },
+        {
+            "filename": "goal.png",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/goal.png",
+            "templates": [
+                {
+                    "source": "templates\/consultco-home-page.json",
+                    "name": "Consultco-Home page"
+                },
+                {
+                    "source": "templates\/consultco-services-page.json",
+                    "name": "Consultco-Services Page"
+                }
+            ],
+            "filesize": 13896,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/goal_6558426?term=goal&page=1&position=3&origin=style&related_id=6558426"
+        },
+        {
+            "filename": "cooperation.png",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/cooperation.png",
+            "templates": [
+                {
+                    "source": "templates\/consultco-home-page.json",
+                    "name": "Consultco-Home page"
+                },
+                {
+                    "source": "templates\/consultco-services-page.json",
+                    "name": "Consultco-Services Page"
+                }
+            ],
+            "filesize": 11028,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/cooperation_8124710?term=handshake&page=1&position=1&origin=style&related_id=8124710"
+        },
+        {
+            "filename": "prs3.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/prs3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-home-page.json",
+                    "name": "Consultco-Home page"
+                },
+                {
+                    "source": "templates\/consultco-home-style-2.json",
+                    "name": "Consultco-Home Style 2"
+                },
+                {
+                    "source": "templates\/consultco-projects-page.json",
+                    "name": "Consultco-Projects Page"
+                },
+                {
+                    "source": "templates\/consultco-projects-style-2.json",
+                    "name": "Consultco-Projects Style 2"
+                },
+                {
+                    "source": "templates\/consultco-projects-single-page.json",
+                    "name": "Consultco-Projects Single Page"
+                },
+                {
+                    "source": "templates\/consultco-blog-details-page.json",
+                    "name": "Consultco-Blog Details page"
+                }
+            ],
+            "filesize": 41634,
+            "dimensions": [
+                527,
+                450
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/two-beautiful-asian-businesswomen-standing-using-d-5UVREVJ"
+        },
+        {
+            "filename": "project-5.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/project-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-home-page.json",
+                    "name": "Consultco-Home page"
+                },
+                {
+                    "source": "templates\/consultco-home-style-2.json",
+                    "name": "Consultco-Home Style 2"
+                },
+                {
+                    "source": "templates\/consultco-projects-page.json",
+                    "name": "Consultco-Projects Page"
+                },
+                {
+                    "source": "templates\/consultco-projects-style-2.json",
+                    "name": "Consultco-Projects Style 2"
+                }
+            ],
+            "filesize": 103216,
+            "dimensions": [
+                600,
+                743
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/corporate-business-handshake-7UE65AE"
+        },
+        {
+            "filename": "prs2.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/prs2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-home-page.json",
+                    "name": "Consultco-Home page"
+                },
+                {
+                    "source": "templates\/consultco-home-style-2.json",
+                    "name": "Consultco-Home Style 2"
+                },
+                {
+                    "source": "templates\/consultco-projects-page.json",
+                    "name": "Consultco-Projects Page"
+                },
+                {
+                    "source": "templates\/consultco-projects-style-2.json",
+                    "name": "Consultco-Projects Style 2"
+                },
+                {
+                    "source": "templates\/consultco-projects-single-page.json",
+                    "name": "Consultco-Projects Single Page"
+                },
+                {
+                    "source": "templates\/consultco-blog-details-page.json",
+                    "name": "Consultco-Blog Details page"
+                }
+            ],
+            "filesize": 43340,
+            "dimensions": [
+                527,
+                450
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/engineer-businessman-talking-together-with-busines-KC8CUSQ"
+        },
+        {
+            "filename": "Testimonial-2.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/Testimonial-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-home-page.json",
+                    "name": "Consultco-Home page"
+                },
+                {
+                    "source": "templates\/consultco-home-style-2.json",
+                    "name": "Consultco-Home Style 2"
+                },
+                {
+                    "source": "templates\/consultco-testimonial-page.json",
+                    "name": "Consultco-Testimonial Page"
+                }
+            ],
+            "filesize": 3406,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/two-beautiful-asian-businesswomen-standing-using-d-5UVREVJ"
+        },
+        {
+            "filename": "Testimonial-3.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/Testimonial-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-home-page.json",
+                    "name": "Consultco-Home page"
+                },
+                {
+                    "source": "templates\/consultco-home-style-2.json",
+                    "name": "Consultco-Home Style 2"
+                },
+                {
+                    "source": "templates\/consultco-testimonial-page.json",
+                    "name": "Consultco-Testimonial Page"
+                }
+            ],
+            "filesize": 2685,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-is-so-much-easier-thanks-to-my-new-tablet-6YBL6S5"
+        },
+        {
+            "filename": "Testimonial-1.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/Testimonial-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-home-page.json",
+                    "name": "Consultco-Home page"
+                },
+                {
+                    "source": "templates\/consultco-home-style-2.json",
+                    "name": "Consultco-Home Style 2"
+                },
+                {
+                    "source": "templates\/consultco-testimonial-page.json",
+                    "name": "Consultco-Testimonial Page"
+                }
+            ],
+            "filesize": 2561,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-young-business-workers-in-the-office-with-DA45EYU"
+        },
+        {
+            "filename": "hero-slide-1.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/hero-slide-1-800x753.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-home-style-2.json",
+                    "name": "Consultco-Home Style 2"
+                }
+            ],
+            "filesize": 76188,
+            "dimensions": [
+                959,
+                903
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-working-on-laptop-at-home-SW3VD2E"
+        },
+        {
+            "filename": "about-3.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/about-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-home-style-2.json",
+                    "name": "Consultco-Home Style 2"
+                }
+            ],
+            "filesize": 72542,
+            "dimensions": [
+                504,
+                650
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-business-colleagues-doing-paperwork-at-wor-LMAWLGM"
+        },
+        {
+            "filename": "breadcrums-bg.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/breadcrums-bg-800x167.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-about-page.json",
+                    "name": "Consultco-About Page"
+                },
+                {
+                    "source": "templates\/consultco-services-page.json",
+                    "name": "Consultco-Services Page"
+                },
+                {
+                    "source": "templates\/consultco-service-style-2.json",
+                    "name": "Consultco-Service Style 2"
+                },
+                {
+                    "source": "templates\/consultco-services-single-page.json",
+                    "name": "Consultco-Services Single Page"
+                },
+                {
+                    "source": "templates\/consultco-projects-page.json",
+                    "name": "Consultco-Projects Page"
+                },
+                {
+                    "source": "templates\/consultco-projects-style-2.json",
+                    "name": "Consultco-Projects Style 2"
+                },
+                {
+                    "source": "templates\/consultco-projects-single-page.json",
+                    "name": "Consultco-Projects Single Page"
+                },
+                {
+                    "source": "templates\/consultco-testimonial-page.json",
+                    "name": "Consultco-Testimonial Page"
+                },
+                {
+                    "source": "templates\/consultco-pricing-page.json",
+                    "name": "Consultco-Pricing Page"
+                },
+                {
+                    "source": "templates\/consultco-404-page.json",
+                    "name": "Consultco-404 Page"
+                },
+                {
+                    "source": "templates\/consultco-blog-right-sidebar.json",
+                    "name": "Consultco-Blog right sidebar"
+                },
+                {
+                    "source": "templates\/consultco-blog-left-sidebar-page.json",
+                    "name": "Consultco-Blog Left Sidebar page"
+                },
+                {
+                    "source": "templates\/consultco-blog-fullwidth-page.json",
+                    "name": "Consultco-Blog fullwidth Page"
+                },
+                {
+                    "source": "templates\/consultco-blog-details-page.json",
+                    "name": "Consultco-Blog Details page"
+                },
+                {
+                    "source": "templates\/consultco-contact-page.json",
+                    "name": "Consultco-Contact Page"
+                }
+            ],
+            "filesize": 98280,
+            "dimensions": [
+                1920,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/business-consulting-meeting-working-and-brainstorm-7ZGR2CB"
+        },
+        {
+            "filename": "Single-title-shape.png",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/Single-title-shape.png",
+            "templates": [
+                {
+                    "source": "templates\/consultco-services-single-page.json",
+                    "name": "Consultco-Services Single Page"
+                }
+            ],
+            "filesize": 441,
+            "dimensions": [
+                46,
+                10
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Single-title-shape2.png",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/Single-title-shape2.png",
+            "templates": [
+                {
+                    "source": "templates\/consultco-services-single-page.json",
+                    "name": "Consultco-Services Single Page"
+                },
+                {
+                    "source": "templates\/consultco-blog-right-sidebar.json",
+                    "name": "Consultco-Blog right sidebar"
+                },
+                {
+                    "source": "templates\/consultco-blog-left-sidebar-page.json",
+                    "name": "Consultco-Blog Left Sidebar page"
+                },
+                {
+                    "source": "templates\/consultco-blog-details-page.json",
+                    "name": "Consultco-Blog Details page"
+                }
+            ],
+            "filesize": 458,
+            "dimensions": [
+                46,
+                10
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "service-1.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/service-1-800x444.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-services-single-page.json",
+                    "name": "Consultco-Services Single Page"
+                }
+            ],
+            "filesize": 92639,
+            "dimensions": [
+                900,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-a-handsome-businessman-sitting-in-the--TJZMZKX"
+        },
+        {
+            "filename": "service-3.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/service-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-services-single-page.json",
+                    "name": "Consultco-Services Single Page"
+                }
+            ],
+            "filesize": 54686,
+            "dimensions": [
+                430,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-young-business-workers-in-the-office-with-DA45EYU"
+        },
+        {
+            "filename": "service-2.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/service-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-services-single-page.json",
+                    "name": "Consultco-Services Single Page"
+                }
+            ],
+            "filesize": 62225,
+            "dimensions": [
+                430,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/two-young-asian-business-woman-talk-consult-discus-WVUC9TF"
+        },
+        {
+            "filename": "blog-3.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/blog-3-800x438.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-projects-page.json",
+                    "name": "Consultco-Projects Page"
+                }
+            ],
+            "filesize": 161326,
+            "dimensions": [
+                1095,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-consulting-meeting-working-and-brainstorm-4UEXTC2"
+        },
+        {
+            "filename": "service-single-1.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/service-single-1-800x438.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-projects-single-page.json",
+                    "name": "Consultco-Projects Single Page"
+                }
+            ],
+            "filesize": 55324,
+            "dimensions": [
+                1095,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-people-shaking-hands-in-the-office-UFYBVEL"
+        },
+        {
+            "filename": "prs5.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/prs5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-projects-single-page.json",
+                    "name": "Consultco-Projects Single Page"
+                }
+            ],
+            "filesize": 5467,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/lady-talking-on-phone-while-working-on-computer-in-T59A8YJ"
+        },
+        {
+            "filename": "prs4.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/prs4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-projects-single-page.json",
+                    "name": "Consultco-Projects Single Page"
+                }
+            ],
+            "filesize": 5433,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/professional-broker-YWNF64J"
+        },
+        {
+            "filename": "404-1.png",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/404-1.png",
+            "templates": [
+                {
+                    "source": "templates\/consultco-404-page.json",
+                    "name": "Consultco-404 Page"
+                }
+            ],
+            "filesize": 8824,
+            "dimensions": [
+                700,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/404-page-error-illustration-S9M46F5"
+        },
+        {
+            "filename": "blog-author.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/blog-author.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-blog-right-sidebar.json",
+                    "name": "Consultco-Blog right sidebar"
+                },
+                {
+                    "source": "templates\/consultco-blog-left-sidebar-page.json",
+                    "name": "Consultco-Blog Left Sidebar page"
+                },
+                {
+                    "source": "templates\/consultco-blog-details-page.json",
+                    "name": "Consultco-Blog Details page"
+                }
+            ],
+            "filesize": 21653,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-woman-standing-outside-the-office-buildin-8DSNDV8"
+        },
+        {
+            "filename": "ab.png",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/ab.png",
+            "templates": [
+                {
+                    "source": "templates\/consultco-blog-right-sidebar.json",
+                    "name": "Consultco-Blog right sidebar"
+                },
+                {
+                    "source": "templates\/consultco-blog-left-sidebar-page.json",
+                    "name": "Consultco-Blog Left Sidebar page"
+                },
+                {
+                    "source": "templates\/consultco-blog-details-page.json",
+                    "name": "Consultco-Blog Details page"
+                }
+            ],
+            "filesize": 2287,
+            "dimensions": [
+                198,
+                197
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "comment-author-2.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/comment-author-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-blog-details-page.json",
+                    "name": "Consultco-Blog Details page"
+                }
+            ],
+            "filesize": 4095,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/confident-young-latin-business-man-leader-looking--FDEVT57"
+        },
+        {
+            "filename": "comment-author-1.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/comment-author-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-blog-details-page.json",
+                    "name": "Consultco-Blog Details page"
+                }
+            ],
+            "filesize": 4332,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-people-shaking-hands-in-the-office-UFYBVEL"
+        },
+        {
+            "filename": "comment-author-3.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/comment-author-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-blog-details-page.json",
+                    "name": "Consultco-Blog Details page"
+                }
+            ],
+            "filesize": 5085,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/professional-broker-YWNF64J"
+        },
+        {
+            "filename": "comment-author-4.jpg",
+            "thumbnail_url": "http:\/\/consultcokit.wpolive.com\/wp-content\/uploads\/2023\/12\/comment-author-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/consultco-blog-details-page.json",
+                    "name": "Consultco-Blog Details page"
+                }
+            ],
+            "filesize": 4642,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/office-portrait-ceo-and-business-man-happy-for-sta-43ZFX64"
+        }
+    ]
+}

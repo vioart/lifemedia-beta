@@ -1,0 +1,921 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Warnet - Broadband Internet Services UI Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/themekit.strealstudio.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.png",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/themekit.strealstudio.com\/warnet\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.png",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/themekit.strealstudio.com\/warnet\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Book Appointment Form - MetForm",
+            "screenshot": "screenshots\/book-appointment-form-metform.png",
+            "source": "templates\/book-appointment-form-metform.json",
+            "preview_url": "https:\/\/themekit.strealstudio.com\/warnet\/template-kit\/book-appointment-form-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Form - MetForm",
+            "screenshot": "screenshots\/contact-form-metform.png",
+            "source": "templates\/contact-form-metform.json",
+            "preview_url": "https:\/\/themekit.strealstudio.com\/warnet\/template-kit\/contact-form-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Discount Form - MetForm",
+            "screenshot": "screenshots\/discount-form-metform.png",
+            "source": "templates\/discount-form-metform.json",
+            "preview_url": "https:\/\/themekit.strealstudio.com\/warnet\/template-kit\/discount-form-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Find Your City Form - MetForm",
+            "screenshot": "screenshots\/find-your-city-form-metform.png",
+            "source": "templates\/find-your-city-form-metform.json",
+            "preview_url": "https:\/\/themekit.strealstudio.com\/warnet\/template-kit\/find-your-city-form-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Newsletter Blog Form - MetForm",
+            "screenshot": "screenshots\/newsletter-blog-form-metform.png",
+            "source": "templates\/newsletter-blog-form-metform.json",
+            "preview_url": "https:\/\/themekit.strealstudio.com\/warnet\/template-kit\/newsletter-blog-form-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Newsletter Claim Form - MetForm",
+            "screenshot": "screenshots\/newsletter-claim-form-metform.png",
+            "source": "templates\/newsletter-claim-form-metform.json",
+            "preview_url": "https:\/\/themekit.strealstudio.com\/warnet\/template-kit\/newsletter-claim-form-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.png",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/themekit.strealstudio.com\/warnet\/template-kit\/404\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.png",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/themekit.strealstudio.com\/warnet\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.png",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/themekit.strealstudio.com\/warnet\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Help & Support",
+            "screenshot": "screenshots\/help-support.png",
+            "source": "templates\/help-support.json",
+            "preview_url": "https:\/\/themekit.strealstudio.com\/warnet\/template-kit\/help-support\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.png",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/themekit.strealstudio.com\/warnet\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.png",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/themekit.strealstudio.com\/warnet\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coverage Area",
+            "screenshot": "screenshots\/coverage-area.png",
+            "source": "templates\/coverage-area.json",
+            "preview_url": "https:\/\/themekit.strealstudio.com\/warnet\/template-kit\/coverage-area\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Speedtest",
+            "screenshot": "screenshots\/speedtest.png",
+            "source": "templates\/speedtest.json",
+            "preview_url": "https:\/\/themekit.strealstudio.com\/warnet\/template-kit\/speedtest\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Services",
+            "screenshot": "screenshots\/single-services.png",
+            "source": "templates\/single-services.json",
+            "preview_url": "https:\/\/themekit.strealstudio.com\/warnet\/template-kit\/single-services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.png",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/themekit.strealstudio.com\/warnet\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Packages",
+            "screenshot": "screenshots\/packages.png",
+            "source": "templates\/packages.json",
+            "preview_url": "https:\/\/themekit.strealstudio.com\/warnet\/template-kit\/packages\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.png",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/themekit.strealstudio.com\/warnet\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.10.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.8.1",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.2.1",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Sticky Header Effects for Elementor",
+            "version": "1.5.5",
+            "file": "sticky-header-effects-for-elementor\/sticky-header-effects-for-elementor.php",
+            "author": "Rwattner"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.13",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "Premium Addons for Elementor",
+            "version": "4.9.47",
+            "file": "premium-addons-for-elementor\/premium-addons-for-elementor.php",
+            "author": "Leap13"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Logo.png",
+            "thumbnail_url": "https:\/\/themekit.strealstudio.com\/warnet\/wp-content\/uploads\/sites\/13\/2022\/11\/Logo.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 1230,
+            "dimensions": [
+                159,
+                40
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "AppStoreIcon.png",
+            "thumbnail_url": "https:\/\/themekit.strealstudio.com\/warnet\/wp-content\/uploads\/sites\/13\/2022\/12\/AppStoreIcon.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 2015,
+            "dimensions": [
+                136,
+                40
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "GooglePlayIcon.png",
+            "thumbnail_url": "https:\/\/themekit.strealstudio.com\/warnet\/wp-content\/uploads\/sites\/13\/2022\/12\/GooglePlayIcon.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 2389,
+            "dimensions": [
+                136,
+                40
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "logo-only.png",
+            "thumbnail_url": "https:\/\/themekit.strealstudio.com\/warnet\/wp-content\/uploads\/sites\/13\/2022\/11\/logo-only.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 580,
+            "dimensions": [
+                44,
+                32
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "hero-background.jpg",
+            "thumbnail_url": "https:\/\/themekit.strealstudio.com\/warnet\/wp-content\/uploads\/sites\/13\/2022\/11\/hero-background-800x465.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/help-support.json",
+                    "name": "Help & Support"
+                },
+                {
+                    "source": "templates\/coverage-area.json",
+                    "name": "Coverage Area"
+                },
+                {
+                    "source": "templates\/speedtest.json",
+                    "name": "Speedtest"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 15960,
+            "dimensions": [
+                1280,
+                744
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "hero-background-mobile.jpg",
+            "thumbnail_url": "https:\/\/themekit.strealstudio.com\/warnet\/wp-content\/uploads\/sites\/13\/2022\/11\/hero-background-mobile.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/help-support.json",
+                    "name": "Help & Support"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/coverage-area.json",
+                    "name": "Coverage Area"
+                },
+                {
+                    "source": "templates\/speedtest.json",
+                    "name": "Speedtest"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 6153,
+            "dimensions": [
+                360,
+                712
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "the-girl-is-shopping-on-the-internet-e1670813575870.jpg",
+            "thumbnail_url": "https:\/\/themekit.strealstudio.com\/warnet\/wp-content\/uploads\/sites\/13\/2022\/12\/the-girl-is-shopping-on-the-internet-e1670813575870-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 48369,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P5FZTRF"
+        },
+        {
+            "filename": "internet-in-cafe-e1670813569530.jpg",
+            "thumbnail_url": "https:\/\/themekit.strealstudio.com\/warnet\/wp-content\/uploads\/sites\/13\/2022\/12\/internet-in-cafe-e1670813569530-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 55792,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8RZSEN6"
+        },
+        {
+            "filename": "young-afro-american-woman-telecommuting-from-home-using-a-laptop-chatting-or-surfing-the-internet--e1670229802903.jpg",
+            "thumbnail_url": "https:\/\/themekit.strealstudio.com\/warnet\/wp-content\/uploads\/sites\/13\/2022\/12\/young-afro-american-woman-telecommuting-from-home-using-a-laptop-chatting-or-surfing-the-internet--e1670229802903-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 43023,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-H862BS5"
+        },
+        {
+            "filename": "watching-movies-e1670229815492.jpg",
+            "thumbnail_url": "https:\/\/themekit.strealstudio.com\/warnet\/wp-content\/uploads\/sites\/13\/2022\/12\/watching-movies-e1670229815492-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/speedtest.json",
+                    "name": "Speedtest"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 37470,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PJPMDGU"
+        },
+        {
+            "filename": "man-relaxing-on-sofa-at-home-and-browsing-internet-with-laptop-computer--e1670229823494.jpg",
+            "thumbnail_url": "https:\/\/themekit.strealstudio.com\/warnet\/wp-content\/uploads\/sites\/13\/2022\/12\/man-relaxing-on-sofa-at-home-and-browsing-internet-with-laptop-computer--e1670229823494-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 46833,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-U4LUKDB"
+        },
+        {
+            "filename": "asian-family-girl-kid-and-father-using-tablet-play-internet-online-in-living-room-e1670229558859.jpg",
+            "thumbnail_url": "https:\/\/themekit.strealstudio.com\/warnet\/wp-content\/uploads\/sites\/13\/2022\/12\/asian-family-girl-kid-and-father-using-tablet-play-internet-online-in-living-room-e1670229558859-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/coverage-area.json",
+                    "name": "Coverage Area"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 59907,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NMSNTCL"
+        },
+        {
+            "filename": "services-background.jpg",
+            "thumbnail_url": "https:\/\/themekit.strealstudio.com\/warnet\/wp-content\/uploads\/sites\/13\/2022\/11\/services-background-800x415.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 13703,
+            "dimensions": [
+                1280,
+                664
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "businessman-at-laptop-working-with-internet-marketing-charts-in-office-e1670813598558.jpg",
+            "thumbnail_url": "https:\/\/themekit.strealstudio.com\/warnet\/wp-content\/uploads\/sites\/13\/2022\/12\/businessman-at-laptop-working-with-internet-marketing-charts-in-office-e1670813598558-800x443.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 54629,
+            "dimensions": [
+                1000,
+                554
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HM6HKQZ"
+        },
+        {
+            "filename": "woman-searching-prices-on-laptop-through-the-internet-e1670813564459.jpg",
+            "thumbnail_url": "https:\/\/themekit.strealstudio.com\/warnet\/wp-content\/uploads\/sites\/13\/2022\/12\/woman-searching-prices-on-laptop-through-the-internet-e1670813564459-800x482.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 75039,
+            "dimensions": [
+                1000,
+                603
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YWTQV6B"
+        },
+        {
+            "filename": "cta-background.jpg",
+            "thumbnail_url": "https:\/\/themekit.strealstudio.com\/warnet\/wp-content\/uploads\/sites\/13\/2022\/11\/cta-background-800x385.jpg",
+            "templates": [
+                {
+                    "source": "templates\/coverage-area.json",
+                    "name": "Coverage Area"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 17821,
+            "dimensions": [
+                1280,
+                616
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "portrait-of-an-interesting-young-man-in-winter-clothes-e1670813532658.jpg",
+            "thumbnail_url": "https:\/\/themekit.strealstudio.com\/warnet\/wp-content\/uploads\/sites\/13\/2022\/12\/portrait-of-an-interesting-young-man-in-winter-clothes-e1670813532658-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                }
+            ],
+            "filesize": 94923,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PUVK2ZG"
+        },
+        {
+            "filename": "portrait-of-man-smiling-at-camera-e1670813539219.jpg",
+            "thumbnail_url": "https:\/\/themekit.strealstudio.com\/warnet\/wp-content\/uploads\/sites\/13\/2022\/12\/portrait-of-man-smiling-at-camera-e1670813539219-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                }
+            ],
+            "filesize": 44418,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Q5REQR5"
+        },
+        {
+            "filename": "stylish-man-e1670813555227.jpg",
+            "thumbnail_url": "https:\/\/themekit.strealstudio.com\/warnet\/wp-content\/uploads\/sites\/13\/2022\/12\/stylish-man-e1670813555227-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                }
+            ],
+            "filesize": 63602,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4N6J76M"
+        },
+        {
+            "filename": "Logoipsum.png",
+            "thumbnail_url": "https:\/\/themekit.strealstudio.com\/warnet\/wp-content\/uploads\/sites\/13\/2022\/11\/Logoipsum.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1751,
+            "dimensions": [
+                192,
+                48
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "logoipsum.com"
+        },
+        {
+            "filename": "Logoipsum-1.png",
+            "thumbnail_url": "https:\/\/themekit.strealstudio.com\/warnet\/wp-content\/uploads\/sites\/13\/2022\/11\/Logoipsum-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1381,
+            "dimensions": [
+                274,
+                48
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "logoipsum.com"
+        },
+        {
+            "filename": "Logoipsum-2.png",
+            "thumbnail_url": "https:\/\/themekit.strealstudio.com\/warnet\/wp-content\/uploads\/sites\/13\/2022\/11\/Logoipsum-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2077,
+            "dimensions": [
+                256,
+                48
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "logoipsum.com"
+        },
+        {
+            "filename": "Logoipsum-3.png",
+            "thumbnail_url": "https:\/\/themekit.strealstudio.com\/warnet\/wp-content\/uploads\/sites\/13\/2022\/11\/Logoipsum-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2382,
+            "dimensions": [
+                240,
+                48
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "logoipsum.com"
+        },
+        {
+            "filename": "numbers-background.jpg",
+            "thumbnail_url": "https:\/\/themekit.strealstudio.com\/warnet\/wp-content\/uploads\/sites\/13\/2022\/11\/numbers-background-800x462.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 8502,
+            "dimensions": [
+                1136,
+                656
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        }
+    ]
+}

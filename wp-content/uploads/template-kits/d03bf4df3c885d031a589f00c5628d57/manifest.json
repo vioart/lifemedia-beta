@@ -1,0 +1,857 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Networker - Networking and Business Elementor Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/portocrafting.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "http:\/\/portocrafting.com\/networker\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "http:\/\/portocrafting.com\/networker\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Networker - Hero Block",
+            "screenshot": "screenshots\/networker-hero-block.jpg",
+            "source": "templates\/networker-hero-block.json",
+            "preview_url": "http:\/\/portocrafting.com\/networker\/template-kit\/networker-hero-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "http:\/\/portocrafting.com\/networker\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Page",
+            "screenshot": "screenshots\/about-page.jpg",
+            "source": "templates\/about-page.json",
+            "preview_url": "http:\/\/portocrafting.com\/networker\/template-kit\/about-page\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Service Page",
+            "screenshot": "screenshots\/service-page.jpg",
+            "source": "templates\/service-page.json",
+            "preview_url": "http:\/\/portocrafting.com\/networker\/template-kit\/service-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Archive News",
+            "screenshot": "screenshots\/archive-news.jpg",
+            "source": "templates\/archive-news.json",
+            "preview_url": "http:\/\/portocrafting.com\/networker\/?elementor_library=archive-news",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive\/post_archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: Posts Archive."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "http:\/\/portocrafting.com\/networker\/?elementor_library=single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Career Page",
+            "screenshot": "screenshots\/career-page.jpg",
+            "source": "templates\/career-page.json",
+            "preview_url": "http:\/\/portocrafting.com\/networker\/template-kit\/career-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Page",
+            "screenshot": "screenshots\/contact-page.jpg",
+            "source": "templates\/contact-page.json",
+            "preview_url": "http:\/\/portocrafting.com\/networker\/template-kit\/contact-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Error 404",
+            "screenshot": "screenshots\/error-404.jpg",
+            "source": "templates\/error-404.json",
+            "preview_url": "http:\/\/portocrafting.com\/networker\/?elementor_library=error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.7.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Premium Addons for Elementor",
+            "version": "4.9.31",
+            "file": "premium-addons-for-elementor\/premium-addons-for-elementor.php",
+            "author": "Leap13"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.6.3",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "13.png",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/08\/13-800x799.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                },
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                }
+            ],
+            "filesize": 46261,
+            "dimensions": [
+                1354,
+                1353
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "2.jpg",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/08\/2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/networker-hero-block.json",
+                    "name": "Networker - Hero Block"
+                }
+            ],
+            "filesize": 127214,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/computer-network-setup-KJRXXPE"
+        },
+        {
+            "filename": "3.jpg",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/08\/3-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                }
+            ],
+            "filesize": 146280,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/asian-man-working-with-network-server-FKDQHXY"
+        },
+        {
+            "filename": "4.png",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/08\/4.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                },
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                }
+            ],
+            "filesize": 23465,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/i\/_900805"
+        },
+        {
+            "filename": "5.png",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/08\/5.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                }
+            ],
+            "filesize": 12339,
+            "dimensions": [
+                498,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/24-hours_1134013"
+        },
+        {
+            "filename": "6.png",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/08\/6.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                }
+            ],
+            "filesize": 9505,
+            "dimensions": [
+                406,
+                406
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/i\/_2951507"
+        },
+        {
+            "filename": "7.png",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/08\/7.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                },
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                }
+            ],
+            "filesize": 7809,
+            "dimensions": [
+                512,
+                496
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/i\/_916837"
+        },
+        {
+            "filename": "8.png",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/08\/8.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                }
+            ],
+            "filesize": 4157,
+            "dimensions": [
+                512,
+                354
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/i\/_545708"
+        },
+        {
+            "filename": "9.png",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/08\/9.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                }
+            ],
+            "filesize": 11951,
+            "dimensions": [
+                396,
+                396
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/i\/_7917117"
+        },
+        {
+            "filename": "11-1.jpg",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/08\/11-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 93302,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/server-network-background-6ML3U26"
+        },
+        {
+            "filename": "10-2.jpg",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/08\/10-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 61332,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/technician-inspecting-computer-network-NZWSELQ"
+        },
+        {
+            "filename": "12-1.jpg",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/08\/12-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                }
+            ],
+            "filesize": 105722,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/asian-network-engineer-in-data-center-SPSLF9J"
+        },
+        {
+            "filename": "16.jpg",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/08\/16.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                }
+            ],
+            "filesize": 116566,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/technician-setting-up-internet-network-NZRMFUK"
+        },
+        {
+            "filename": "15.jpg",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/08\/15.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                }
+            ],
+            "filesize": 96615,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/technician-in-dark-network-room-Y6KKFXY"
+        },
+        {
+            "filename": "30.jpg",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/08\/30.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                },
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                }
+            ],
+            "filesize": 34738,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-african-american-man-reclining-on-couch-wi-V56YMQN"
+        },
+        {
+            "filename": "31-1.jpg",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/08\/31-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                },
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                }
+            ],
+            "filesize": 57228,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-handsome-african-american-young-man-in-the-J3QJU2Y"
+        },
+        {
+            "filename": "32-1.jpg",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/08\/32-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                },
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                }
+            ],
+            "filesize": 40768,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-young-woman-wearing-eye-glasses-lookin-UUE9BGA"
+        },
+        {
+            "filename": "33-1.jpg",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/08\/33-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                },
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                }
+            ],
+            "filesize": 45291,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-wearing-hat-smiling-on-the-beach-SLKGQ4B"
+        },
+        {
+            "filename": "34.png",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/08\/34.png",
+            "templates": [
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                }
+            ],
+            "filesize": 8014,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/i\/_622340"
+        },
+        {
+            "filename": "35.png",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/08\/35.png",
+            "templates": [
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                }
+            ],
+            "filesize": 8062,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/i\/_3151230"
+        },
+        {
+            "filename": "36.png",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/08\/36.png",
+            "templates": [
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                }
+            ],
+            "filesize": 12440,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/i\/_1336494"
+        },
+        {
+            "filename": "37.png",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/08\/37.png",
+            "templates": [
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                }
+            ],
+            "filesize": 15118,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/i\/_126516"
+        },
+        {
+            "filename": "39.jpg",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/08\/39-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/archive-news.json",
+                    "name": "Archive News"
+                }
+            ],
+            "filesize": 171309,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-network-engineer-in-data-center-T5YCBTU"
+        },
+        {
+            "filename": "38.jpg",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/08\/38-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/career-page.json",
+                    "name": "Career Page"
+                }
+            ],
+            "filesize": 179691,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/computer-network-background-2XMP5WE"
+        },
+        {
+            "filename": "17-1.jpg",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/08\/17-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/career-page.json",
+                    "name": "Career Page"
+                }
+            ],
+            "filesize": 199778,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-young-technician-in-server-room-B26RG3A"
+        },
+        {
+            "filename": "28.jpg",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/04\/28-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/career-page.json",
+                    "name": "Career Page"
+                }
+            ],
+            "filesize": 204517,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-network-technician-BHAB3AS"
+        },
+        {
+            "filename": "27.jpg",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/04\/27-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/career-page.json",
+                    "name": "Career Page"
+                }
+            ],
+            "filesize": 179623,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/network-engineer-managing-servers-AV3M94D"
+        },
+        {
+            "filename": "40.jpg",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/08\/40-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-page.json",
+                    "name": "Contact Page"
+                }
+            ],
+            "filesize": 96249,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/technician-in-neon-server-room-TJQ69S6"
+        },
+        {
+            "filename": "1.png",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/08\/1-800x133.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-page.json",
+                    "name": "Contact Page"
+                }
+            ],
+            "filesize": 17416,
+            "dimensions": [
+                1619,
+                270
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "41.jpg",
+            "thumbnail_url": "http:\/\/portocrafting.com\/networker\/wp-content\/uploads\/sites\/13\/2022\/08\/41-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/error-404.json",
+                    "name": "Error 404"
+                }
+            ],
+            "filesize": 149745,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/network-engineer-working-at-night-E2DCVLR"
+        }
+    ]
+}

@@ -1,0 +1,1659 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Cyberciti - Cyber Security Services Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/cyberciti.1onestrong.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/cyberciti.1onestrong.com\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/cyberciti.1onestrong.com\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "CTA \u2013 Section \u2013 Metform",
+            "screenshot": "screenshots\/cta-section-metform.jpg",
+            "source": "templates\/cta-section-metform.json",
+            "preview_url": "https:\/\/cyberciti.1onestrong.com\/template-kit\/cta-section-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact \u2013 Section \u2013 Metform",
+            "screenshot": "screenshots\/contact-section-metform.jpg",
+            "source": "templates\/contact-section-metform.json",
+            "preview_url": "https:\/\/cyberciti.1onestrong.com\/template-kit\/contact-section-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 01",
+            "screenshot": "screenshots\/home-01.jpg",
+            "source": "templates\/home-01.json",
+            "preview_url": "https:\/\/cyberciti.1onestrong.com\/template-kit\/home-01\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 02",
+            "screenshot": "screenshots\/home-02.jpg",
+            "source": "templates\/home-02.json",
+            "preview_url": "https:\/\/cyberciti.1onestrong.com\/template-kit\/home-02\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/cyberciti.1onestrong.com\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services Detail",
+            "screenshot": "screenshots\/services-detail.jpg",
+            "source": "templates\/services-detail.json",
+            "preview_url": "https:\/\/cyberciti.1onestrong.com\/template-kit\/services-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/cyberciti.1onestrong.com\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/cyberciti.1onestrong.com\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Review",
+            "screenshot": "screenshots\/review.jpg",
+            "source": "templates\/review.json",
+            "preview_url": "https:\/\/cyberciti.1onestrong.com\/template-kit\/review\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Teams",
+            "screenshot": "screenshots\/teams.jpg",
+            "source": "templates\/teams.json",
+            "preview_url": "https:\/\/cyberciti.1onestrong.com\/template-kit\/teams\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Faq",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/cyberciti.1onestrong.com\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/cyberciti.1onestrong.com\/template-kit\/404\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/cyberciti.1onestrong.com\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/cyberciti.1onestrong.com\/template-kit\/single-post\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/cyberciti.1onestrong.com\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.13.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.8.8",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.6.1",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.3.2",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Logo-01.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/Logo-01-800x162.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 13387,
+            "dimensions": [
+                980,
+                199
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "asset-021.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/asset-021.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/cta-section-metform.json",
+                    "name": "CTA \u2013 Section \u2013 Metform"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                },
+                {
+                    "source": "templates\/teams.json",
+                    "name": "Teams"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 95511,
+            "dimensions": [
+                318,
+                318
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "asset-06.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/asset-06.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 44543,
+            "dimensions": [
+                273,
+                273
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "cyberjpg-011.jpg",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/cyberjpg-011.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                }
+            ],
+            "filesize": 31722,
+            "dimensions": [
+                318,
+                318
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "asset-026.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/asset-026-800x450.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                },
+                {
+                    "source": "templates\/teams.json",
+                    "name": "Teams"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 32215,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "award-03.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/award-03.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/teams.json",
+                    "name": "Teams"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                }
+            ],
+            "filesize": 24104,
+            "dimensions": [
+                487,
+                666
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "ico-01.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/ico-01.png",
+            "templates": [
+                {
+                    "source": "templates\/cta-section-metform.json",
+                    "name": "CTA \u2013 Section \u2013 Metform"
+                }
+            ],
+            "filesize": 141776,
+            "dimensions": [
+                653,
+                653
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "asset-03.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/asset-03.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 205687,
+            "dimensions": [
+                764,
+                359
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "asset-017.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/asset-017.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 10456,
+            "dimensions": [
+                612,
+                765
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "asset-013.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/asset-013.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 41662,
+            "dimensions": [
+                208,
+                208
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "asset-014.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/asset-014.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 41056,
+            "dimensions": [
+                208,
+                208
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "asset-012.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/asset-012.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 41605,
+            "dimensions": [
+                208,
+                208
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "asset-09.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/asset-09.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 44046,
+            "dimensions": [
+                208,
+                208
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "asset-020.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/asset-020.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 5231,
+            "dimensions": [
+                300,
+                136
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "asset-016.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/asset-016.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 16940,
+            "dimensions": [
+                714,
+                1139
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "cyberjpg-014.jpg",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/cyberjpg-014-800x1332.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 188643,
+            "dimensions": [
+                1118,
+                1861
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "cyberjpg-015.jpg",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/cyberjpg-015-800x1330.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 81295,
+            "dimensions": [
+                1119,
+                1861
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "asset-018.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/asset-018-800x758.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                },
+                {
+                    "source": "templates\/teams.json",
+                    "name": "Teams"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 14037,
+            "dimensions": [
+                807,
+                765
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "cyberjpg-010.jpg",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/cyberjpg-010-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 72635,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "cyberjpg-07.jpg",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/cyberjpg-07-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 87754,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "cyberjpg-08.jpg",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/cyberjpg-08-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 136423,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "Preview-logo-01-1.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/Preview-logo-01-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 11590,
+            "dimensions": [
+                702,
+                166
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "Preview-logo-02-1.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/Preview-logo-02-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 9745,
+            "dimensions": [
+                702,
+                166
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "Preview-logo-03-1.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/Preview-logo-03-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 12030,
+            "dimensions": [
+                702,
+                166
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "Preview-logo-04-1.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/Preview-logo-04-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 10011,
+            "dimensions": [
+                702,
+                166
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "Preview-logo-05.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/Preview-logo-05.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 10440,
+            "dimensions": [
+                702,
+                166
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "Preview-logo-06-1.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/Preview-logo-06-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 13937,
+            "dimensions": [
+                702,
+                166
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "Preview-logo-07.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/Preview-logo-07.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 11349,
+            "dimensions": [
+                702,
+                166
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "Preview-logo-08.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/Preview-logo-08.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 11004,
+            "dimensions": [
+                702,
+                166
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "asset-027.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/asset-027-800x450.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                },
+                {
+                    "source": "templates\/teams.json",
+                    "name": "Teams"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 29445,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "asset-022.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/asset-022.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 45755,
+            "dimensions": [
+                208,
+                208
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "cyberjpg-020.jpg",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/cyberjpg-020-800x467.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 98591,
+            "dimensions": [
+                1500,
+                875
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "cyberjpg-021.jpg",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/cyberjpg-021-800x467.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                }
+            ],
+            "filesize": 100595,
+            "dimensions": [
+                1500,
+                875
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "asset-019.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/asset-019.png",
+            "templates": [
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                }
+            ],
+            "filesize": 12948,
+            "dimensions": [
+                579,
+                1139
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "cyberjpg-012.jpg",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/cyberjpg-012-800x494.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 68121,
+            "dimensions": [
+                1500,
+                926
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "asset-023.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/asset-023.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 40298,
+            "dimensions": [
+                208,
+                208
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "asset-024.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/asset-024.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 43313,
+            "dimensions": [
+                208,
+                208
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "asset-025.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/asset-025.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 42496,
+            "dimensions": [
+                208,
+                208
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "Team-01.jpg",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/Team-01-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/teams.json",
+                    "name": "Teams"
+                }
+            ],
+            "filesize": 92642,
+            "dimensions": [
+                1300,
+                1300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "Team-02.jpg",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/Team-02-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/teams.json",
+                    "name": "Teams"
+                }
+            ],
+            "filesize": 98950,
+            "dimensions": [
+                1300,
+                1300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "Team-03.jpg",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/Team-03-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/teams.json",
+                    "name": "Teams"
+                }
+            ],
+            "filesize": 130621,
+            "dimensions": [
+                1300,
+                1300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "Team-04.jpg",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/Team-04-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/teams.json",
+                    "name": "Teams"
+                }
+            ],
+            "filesize": 146646,
+            "dimensions": [
+                1300,
+                1300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "Team-05.jpg",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/Team-05-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/teams.json",
+                    "name": "Teams"
+                }
+            ],
+            "filesize": 129492,
+            "dimensions": [
+                1300,
+                1300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "Team-06.jpg",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/Team-06-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/teams.json",
+                    "name": "Teams"
+                }
+            ],
+            "filesize": 137623,
+            "dimensions": [
+                1300,
+                1300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "cyberjpg-022.jpg",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/cyberjpg-022-800x467.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 80053,
+            "dimensions": [
+                1500,
+                875
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "cyberjpg-023.jpg",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/cyberjpg-023-800x467.jpg",
+            "templates": [
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 126418,
+            "dimensions": [
+                1500,
+                875
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "cyberjpg-017.jpg",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/cyberjpg-017-800x467.jpg",
+            "templates": [
+                {
+                    "source": "templates\/teams.json",
+                    "name": "Teams"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                }
+            ],
+            "filesize": 116935,
+            "dimensions": [
+                1500,
+                875
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "iconn-043.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/iconn-043.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 7526,
+            "dimensions": [
+                440,
+                200
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Blog02.jpg",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/Blog02-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 204405,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "Blog03.jpg",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/Blog03-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 116756,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "Blog04.jpg",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/Blog04-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 184316,
+            "dimensions": [
+                1500,
+                1001
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "cyberjpg-019.jpg",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/cyberjpg-019-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 96546,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/TFWV97CB2J"
+        },
+        {
+            "filename": "asset-030.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/asset-030.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 15893,
+            "dimensions": [
+                104,
+                104
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "asset-029.png",
+            "thumbnail_url": "https:\/\/cyberciti.1onestrong.com\/wp-content\/uploads\/2023\/05\/asset-029.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 47753,
+            "dimensions": [
+                208,
+                208
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

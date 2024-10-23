@@ -1,0 +1,1333 @@
+{
+    "manifest_version": "1.0.22",
+    "title": "Vipen - VPN Services & Proxy Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/askproject.net",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/askproject.net\/vipen\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Newsletter",
+            "screenshot": "screenshots\/form-newsletter.jpg",
+            "source": "templates\/form-newsletter.json",
+            "preview_url": "https:\/\/askproject.net\/vipen\/template-kit\/form-newsletter\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/askproject.net\/vipen\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/askproject.net\/vipen\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/askproject.net\/vipen\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Features",
+            "screenshot": "screenshots\/features.jpg",
+            "source": "templates\/features.json",
+            "preview_url": "https:\/\/askproject.net\/vipen\/template-kit\/features\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/askproject.net\/vipen\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/askproject.net\/vipen\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Servers",
+            "screenshot": "screenshots\/servers.jpg",
+            "source": "templates\/servers.json",
+            "preview_url": "https:\/\/askproject.net\/vipen\/template-kit\/servers\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Reviews",
+            "screenshot": "screenshots\/reviews.jpg",
+            "source": "templates\/reviews.json",
+            "preview_url": "https:\/\/askproject.net\/vipen\/template-kit\/reviews\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Integrations",
+            "screenshot": "screenshots\/integrations.jpg",
+            "source": "templates\/integrations.json",
+            "preview_url": "https:\/\/askproject.net\/vipen\/template-kit\/integrations\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "https:\/\/askproject.net\/vipen\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Contact",
+            "screenshot": "screenshots\/form-contact.jpg",
+            "source": "templates\/form-contact.json",
+            "preview_url": "https:\/\/askproject.net\/vipen\/template-kit\/form-contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/askproject.net\/vipen\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Career",
+            "screenshot": "screenshots\/career.jpg",
+            "source": "templates\/career.json",
+            "preview_url": "https:\/\/askproject.net\/vipen\/template-kit\/career\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/askproject.net\/vipen\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/askproject.net\/vipen\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/askproject.net\/vipen\/template-kit\/404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Gum Elementor Addon",
+            "version": "1.3.6",
+            "file": "gum-elementor-addon\/gum-elementor-addon.php",
+            "author": "TemeGUM"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.8.9",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.23.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.2.2",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logo_Asset-1-2.png",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/logo_Asset-1-2-800x282.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 35335,
+            "dimensions": [
+                1501,
+                529
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo_Asset-2-1.png",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/logo_Asset-2-1-800x282.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 36142,
+            "dimensions": [
+                1501,
+                529
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "hero-bg5.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/hero-bg5-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 123299,
+            "dimensions": [
+                2498,
+                2498
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "hero-bg-mobile.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/hero-bg-mobile-800x2000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 132334,
+            "dimensions": [
+                900,
+                2250
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "hero-bg7.png",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/hero-bg7-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/servers.json",
+                    "name": "Servers"
+                },
+                {
+                    "source": "templates\/reviews.json",
+                    "name": "Reviews"
+                },
+                {
+                    "source": "templates\/integrations.json",
+                    "name": "Integrations"
+                }
+            ],
+            "filesize": 165009,
+            "dimensions": [
+                2500,
+                2500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "portrait-of-positive-glad-ginger-young-female-has-DFTL64Z.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/portrait-of-positive-glad-ginger-young-female-has-DFTL64Z-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 83329,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DFTL64Z"
+        },
+        {
+            "filename": "portrait-of-cheerful-fashionable-hipster-guy-in-el-VAYRGDJ.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/portrait-of-cheerful-fashionable-hipster-guy-in-el-VAYRGDJ-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 119138,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VAYRGDJ"
+        },
+        {
+            "filename": "portrait-of-beautiful-european-femae-with-tender-l-BBT3QPC.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/portrait-of-beautiful-european-femae-with-tender-l-BBT3QPC-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 119290,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BBT3QPC"
+        },
+        {
+            "filename": "studio-portrait-of-young-man-wearing-white-t-shirt-3UUY3YQ.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/studio-portrait-of-young-man-wearing-white-t-shirt-3UUY3YQ-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 117716,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3UUY3YQ"
+        },
+        {
+            "filename": "client1.png",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/client1-800x320.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 18341,
+            "dimensions": [
+                1000,
+                400
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client2.png",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/client2-800x320.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 16729,
+            "dimensions": [
+                1000,
+                400
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client3.png",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/client3-800x320.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 12110,
+            "dimensions": [
+                1000,
+                400
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client4.png",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/client4-800x320.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 9769,
+            "dimensions": [
+                1000,
+                400
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client5.png",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/client5-800x320.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 14104,
+            "dimensions": [
+                1000,
+                400
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client6.png",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/client6-800x320.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 7425,
+            "dimensions": [
+                1000,
+                400
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client7.png",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/client7-800x320.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 16810,
+            "dimensions": [
+                1000,
+                400
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client8.png",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/client8-800x320.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 11357,
+            "dimensions": [
+                1000,
+                400
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client9.png",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/client9-800x320.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 11708,
+            "dimensions": [
+                1000,
+                400
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client10.png",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/client10-800x320.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 14873,
+            "dimensions": [
+                1000,
+                400
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon4.png",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/icon4-800x799.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/servers.json",
+                    "name": "Servers"
+                }
+            ],
+            "filesize": 29702,
+            "dimensions": [
+                1001,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon1.png",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/icon1-800x799.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/servers.json",
+                    "name": "Servers"
+                }
+            ],
+            "filesize": 17527,
+            "dimensions": [
+                1001,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon3.png",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/icon3-800x799.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/servers.json",
+                    "name": "Servers"
+                }
+            ],
+            "filesize": 19765,
+            "dimensions": [
+                1001,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon2.png",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/icon2-800x799.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/servers.json",
+                    "name": "Servers"
+                }
+            ],
+            "filesize": 25910,
+            "dimensions": [
+                1001,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "group-of-creative-multiracial-people-meeting-in-co-2Q9N8PY.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/group-of-creative-multiracial-people-meeting-in-co-2Q9N8PY-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 214447,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2Q9N8PY"
+        },
+        {
+            "filename": "african-american-entrepreneur-reading-an-e-mail-on-QYJAPTZ.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/african-american-entrepreneur-reading-an-e-mail-on-QYJAPTZ-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 154854,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QYJAPTZ"
+        },
+        {
+            "filename": "08_Home-Screen2.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/08_Home-Screen2-800x1259.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 97630,
+            "dimensions": [
+                1271,
+                2000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "10_Connection2.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/10_Connection2-800x799.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 117976,
+            "dimensions": [
+                1501,
+                1500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "07_Choose-prices.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/07_Choose-prices-800x1131.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                }
+            ],
+            "filesize": 127375,
+            "dimensions": [
+                1415,
+                2000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "portrait-of-mature-man-with-grey-hair-and-stubble-N2FETGY-2.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/portrait-of-mature-man-with-grey-hair-and-stubble-N2FETGY-2-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/reviews.json",
+                    "name": "Reviews"
+                }
+            ],
+            "filesize": 103662,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-N2FETGY"
+        },
+        {
+            "filename": "pretty-hispanic-female-student-smiling-and-looking-CFSPSYT.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/pretty-hispanic-female-student-smiling-and-looking-CFSPSYT-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/reviews.json",
+                    "name": "Reviews"
+                }
+            ],
+            "filesize": 142110,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CFSPSYT"
+        },
+        {
+            "filename": "portrait-of-positive-glad-ginger-young-female-has-DFTL64Z-1.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/portrait-of-positive-glad-ginger-young-female-has-DFTL64Z-1-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/reviews.json",
+                    "name": "Reviews"
+                }
+            ],
+            "filesize": 83329,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DFTL64Z"
+        },
+        {
+            "filename": "elegant-young-woman-portrait-XSR9PFA-1.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/elegant-young-woman-portrait-XSR9PFA-1-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/reviews.json",
+                    "name": "Reviews"
+                }
+            ],
+            "filesize": 112565,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XSR9PFA"
+        },
+        {
+            "filename": "portrait-65VLEF5.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/portrait-65VLEF5-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/reviews.json",
+                    "name": "Reviews"
+                }
+            ],
+            "filesize": 71503,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-65VLEF5"
+        },
+        {
+            "filename": "college-study-and-education-student-man-portrait-CJXS6KY.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/college-study-and-education-student-man-portrait-CJXS6KY-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/reviews.json",
+                    "name": "Reviews"
+                }
+            ],
+            "filesize": 161678,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CJXS6KY"
+        },
+        {
+            "filename": "young-girl-with-laptop-is-sitting-outdoors-4UU3GJD.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/young-girl-with-laptop-is-sitting-outdoors-4UU3GJD-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/features.json",
+                    "name": "Features"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/servers.json",
+                    "name": "Servers"
+                },
+                {
+                    "source": "templates\/reviews.json",
+                    "name": "Reviews"
+                },
+                {
+                    "source": "templates\/integrations.json",
+                    "name": "Integrations"
+                }
+            ],
+            "filesize": 150794,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4UU3GJD"
+        },
+        {
+            "filename": "distance-learning-27HFWHE.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/distance-learning-27HFWHE-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/servers.json",
+                    "name": "Servers"
+                }
+            ],
+            "filesize": 98370,
+            "dimensions": [
+                1200,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-27HFWHE"
+        },
+        {
+            "filename": "handsome-businessman-in-glasses-looking-at-camera-26AAVKG.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/handsome-businessman-in-glasses-looking-at-camera-26AAVKG-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 130283,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-26AAVKG"
+        },
+        {
+            "filename": "happy-young-asian-businesswoman-crossing-her-arms-JBXKPEN.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/happy-young-asian-businesswoman-crossing-her-arms-JBXKPEN-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 142116,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JBXKPEN"
+        },
+        {
+            "filename": "confident-and-relaxed-bearded-and-brunette-man-in-R9GDWR6.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/confident-and-relaxed-bearded-and-brunette-man-in-R9GDWR6-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 88780,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-R9GDWR6"
+        },
+        {
+            "filename": "vertical-shot-of-a-successful-middle-aged-woman-at-D86XSZB.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/vertical-shot-of-a-successful-middle-aged-woman-at-D86XSZB-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 169167,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-D86XSZB"
+        },
+        {
+            "filename": "young-confident-businessman-in-smart-casualwear-an-H4H2ZPF.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/young-confident-businessman-in-smart-casualwear-an-H4H2ZPF-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 159382,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-H4H2ZPF"
+        },
+        {
+            "filename": "portrait-of-young-multiracial-man-in-office-DBXGRPQ.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/portrait-of-young-multiracial-man-in-office-DBXGRPQ-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 145220,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DBXGRPQ"
+        },
+        {
+            "filename": "surprised-excited-woman-on-a-green-background-che-YGU2LQZ.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/surprised-excited-woman-on-a-green-background-che-YGU2LQZ-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 93698,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YGU2LQZ"
+        },
+        {
+            "filename": "arabian-businessman-holding-tray-with-papers-near-E9ZXF5U.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/arabian-businessman-holding-tray-with-papers-near-E9ZXF5U-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 128989,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-E9ZXF5U"
+        },
+        {
+            "filename": "students-are-studying-the-campus-park-young-peopl-QMZDDW6.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/students-are-studying-the-campus-park-young-peopl-QMZDDW6-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 159163,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QMZDDW6"
+        },
+        {
+            "filename": "404_Asset-4.png",
+            "thumbnail_url": "https:\/\/askproject.net\/vipen\/wp-content\/uploads\/sites\/190\/2024\/07\/404_Asset-4-800x333.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 21855,
+            "dimensions": [
+                1510,
+                629
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

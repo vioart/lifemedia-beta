@@ -1,0 +1,1873 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Printify - Printing Company Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/demothemesflat.co\/printifykit",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Project Details",
+            "screenshot": "screenshots\/project-details.jpg",
+            "source": "templates\/project-details.json",
+            "preview_url": "http:\/\/demothemesflat.co\/printifykit\/template-kit\/project-details\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "http:\/\/demothemesflat.co\/printifykit\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Prinify Tab Services Box T-Shirt 02",
+            "screenshot": "screenshots\/prinify-tab-services-box-t-shirt-02.jpg",
+            "source": "templates\/prinify-tab-services-box-t-shirt-02.json",
+            "preview_url": "http:\/\/demothemesflat.co\/printifykit\/template-kit\/prinify-tab-services-box-t-shirt-02\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Prinify Tab Team Box 01 Home 01",
+            "screenshot": "screenshots\/prinify-tab-team-box-01-home-01.jpg",
+            "source": "templates\/prinify-tab-team-box-01-home-01.json",
+            "preview_url": "http:\/\/demothemesflat.co\/printifykit\/template-kit\/prinify-tab-team-box-01-home-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Prinify Tab Testimonials Box 01 Home 01",
+            "screenshot": "screenshots\/prinify-tab-testimonials-box-01-home-01.jpg",
+            "source": "templates\/prinify-tab-testimonials-box-01-home-01.json",
+            "preview_url": "http:\/\/demothemesflat.co\/printifykit\/template-kit\/prinify-tab-testimonials-box-01-home-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Prinify Tab Believe Box 01",
+            "screenshot": "screenshots\/prinify-tab-believe-box-01.jpg",
+            "source": "templates\/prinify-tab-believe-box-01.json",
+            "preview_url": "http:\/\/demothemesflat.co\/printifykit\/template-kit\/prinify-tab-believe-box-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Prinify Tab Services Box T-Shirt",
+            "screenshot": "screenshots\/prinify-tab-services-box-t-shirt.jpg",
+            "source": "templates\/prinify-tab-services-box-t-shirt.json",
+            "preview_url": "http:\/\/demothemesflat.co\/printifykit\/template-kit\/prinify-tab-services-box-t-shirt\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "http:\/\/demothemesflat.co\/printifykit\/template-kit\/contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "News",
+            "screenshot": "screenshots\/news.jpg",
+            "source": "templates\/news.json",
+            "preview_url": "http:\/\/demothemesflat.co\/printifykit\/template-kit\/news\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Printify Form Message Footer",
+            "screenshot": "screenshots\/printify-form-message-footer.jpg",
+            "source": "templates\/printify-form-message-footer.json",
+            "preview_url": "http:\/\/demothemesflat.co\/printifykit\/template-kit\/printify-form-message-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "http:\/\/demothemesflat.co\/printifykit\/template-kit\/pricing\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Projects",
+            "screenshot": "screenshots\/projects.jpg",
+            "source": "templates\/projects.json",
+            "preview_url": "http:\/\/demothemesflat.co\/printifykit\/template-kit\/projects\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Details",
+            "screenshot": "screenshots\/service-details.jpg",
+            "source": "templates\/service-details.json",
+            "preview_url": "http:\/\/demothemesflat.co\/printifykit\/template-kit\/service-details\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "http:\/\/demothemesflat.co\/printifykit\/template-kit\/services\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "All Services",
+            "screenshot": "screenshots\/all-services.jpg",
+            "source": "templates\/all-services.json",
+            "preview_url": "http:\/\/demothemesflat.co\/printifykit\/template-kit\/all-services\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "http:\/\/demothemesflat.co\/printifykit\/template-kit\/about\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 02",
+            "screenshot": "screenshots\/home-02.jpg",
+            "source": "templates\/home-02.json",
+            "preview_url": "http:\/\/demothemesflat.co\/printifykit\/template-kit\/home-02\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 01",
+            "screenshot": "screenshots\/home-01.jpg",
+            "source": "templates\/home-01.json",
+            "preview_url": "http:\/\/demothemesflat.co\/printifykit\/template-kit\/home-01\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "http:\/\/demothemesflat.co\/printifykit\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Printify Form Message Home 02",
+            "screenshot": "screenshots\/printify-form-message-home-02.jpg",
+            "source": "templates\/printify-form-message-home-02.json",
+            "preview_url": "http:\/\/demothemesflat.co\/printifykit\/template-kit\/printify-form-message-home-02\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.13.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.8.8",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.3.2",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Themesflat Addons For Elementor",
+            "version": "1.9.6",
+            "file": "themesflat-addons-for-elementor\/themesflat-addons-for-elementor.php",
+            "author": "Themesflat"
+        }
+    ],
+    "images": [
+        {
+            "filename": "project-details-1-1.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/project-details-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 17510,
+            "dimensions": [
+                270,
+                308
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "project-details-1-2.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/project-details-1-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 22314,
+            "dimensions": [
+                270,
+                308
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "project-details-1-3.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/project-details-1-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 34530,
+            "dimensions": [
+                270,
+                308
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "project-details-1-4.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/project-details-1-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 29638,
+            "dimensions": [
+                270,
+                308
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "project-details-1-5.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/project-details-1-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-details.json",
+                    "name": "Project Details"
+                }
+            ],
+            "filesize": 51180,
+            "dimensions": [
+                570,
+                378
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "logo.png",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 3602,
+            "dimensions": [
+                133,
+                64
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "img_officer_Home-5GSCPKV-e1637814831307.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/img_officer_Home-5GSCPKV-e1637814831307.jpg",
+            "templates": [
+                {
+                    "source": "templates\/prinify-tab-team-box-01-home-01.json",
+                    "name": "Prinify Tab Team Box 01 Home 01"
+                }
+            ],
+            "filesize": 35036,
+            "dimensions": [
+                470,
+                455
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "img_testimonial_Home-5VWNKM4-e1637814241946.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/img_testimonial_Home-5VWNKM4-e1637814241946.jpg",
+            "templates": [
+                {
+                    "source": "templates\/prinify-tab-testimonials-box-01-home-01.json",
+                    "name": "Prinify Tab Testimonials Box 01 Home 01"
+                }
+            ],
+            "filesize": 12156,
+            "dimensions": [
+                270,
+                270
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "img_faq_Home-XJBGNT7-e1637814420196.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/img_faq_Home-XJBGNT7-e1637814420196.jpg",
+            "templates": [
+                {
+                    "source": "templates\/prinify-tab-believe-box-01.json",
+                    "name": "Prinify Tab Believe Box 01"
+                }
+            ],
+            "filesize": 25899,
+            "dimensions": [
+                400,
+                219
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "img_guideline_Home-TELVHCF-e1637815179849.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/img_guideline_Home-TELVHCF-e1637815179849.jpg",
+            "templates": [
+                {
+                    "source": "templates\/prinify-tab-services-box-t-shirt.json",
+                    "name": "Prinify Tab Services Box T-Shirt"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 49925,
+            "dimensions": [
+                570,
+                648
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "img_guideline_Home-CW2ZTS4-e1637815374250.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/img_guideline_Home-CW2ZTS4-e1637815374250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/prinify-tab-services-box-t-shirt.json",
+                    "name": "Prinify Tab Services Box T-Shirt"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 32943,
+            "dimensions": [
+                570,
+                309
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "what-we-do-2-1.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/what-we-do-2-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 102626,
+            "dimensions": [
+                647,
+                655
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "placeholder.png",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/placeholder.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "project-1-1.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/project-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 50465,
+            "dimensions": [
+                370,
+                395
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "project-1-2.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/project-1-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 37765,
+            "dimensions": [
+                370,
+                395
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "project-1-3.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/project-1-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 60335,
+            "dimensions": [
+                370,
+                395
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "project-1-4.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/project-1-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 42251,
+            "dimensions": [
+                370,
+                395
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "project-1-5.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/project-1-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 39306,
+            "dimensions": [
+                370,
+                395
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "project-1-6.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/project-1-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 31588,
+            "dimensions": [
+                370,
+                395
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "service-details-1-1.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/service-details-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 32952,
+            "dimensions": [
+                370,
+                271
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "service-details-1-2.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/service-details-1-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 23075,
+            "dimensions": [
+                370,
+                271
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "service-details-1-3.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/service-details-1-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 29352,
+            "dimensions": [
+                370,
+                271
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "service-1-4.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/service-1-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/all-services.json",
+                    "name": "All Services"
+                }
+            ],
+            "filesize": 30756,
+            "dimensions": [
+                370,
+                271
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "service-1-5.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/service-1-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/all-services.json",
+                    "name": "All Services"
+                }
+            ],
+            "filesize": 24263,
+            "dimensions": [
+                370,
+                271
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "service-1-6.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/service-1-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/all-services.json",
+                    "name": "All Services"
+                }
+            ],
+            "filesize": 35967,
+            "dimensions": [
+                370,
+                271
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "logoipsum-logo-12.png",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/logoipsum-logo-12.png",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 5117,
+            "dimensions": [
+                150,
+                35
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logoipsum-logo-26.png",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/logoipsum-logo-26.png",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 5866,
+            "dimensions": [
+                150,
+                35
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logoipsum-logo-7.png",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/logoipsum-logo-7.png",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 5588,
+            "dimensions": [
+                150,
+                35
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logoipsum-logo-6.png",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/logoipsum-logo-6.png",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 4649,
+            "dimensions": [
+                150,
+                35
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logoipsum-logo-8.png",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/logoipsum-logo-8.png",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 5741,
+            "dimensions": [
+                150,
+                35
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logoipsum-logo-3.png",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/logoipsum-logo-3.png",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 4705,
+            "dimensions": [
+                150,
+                35
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "placeholder-1.png",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/placeholder-1.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "placeholder-2.png",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/placeholder-2.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "placeholder-3.png",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/placeholder-3.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "placeholder-4.png",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/placeholder-4.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "placeholder-5.png",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/placeholder-5.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "cta-bg-1-1.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/cta-bg-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 357943,
+            "dimensions": [
+                1894,
+                1266
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "unique-feature-hand.png",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/unique-feature-hand.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 28260,
+            "dimensions": [
+                158,
+                328
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "what-we-do-3-1.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/what-we-do-3-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 41765,
+            "dimensions": [
+                570,
+                271
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "img_features_Services-T4J48CE.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/img_features_Services-T4J48CE.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 38736,
+            "dimensions": [
+                210,
+                164
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "img_features_Services-9WHMUV3.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/img_features_Services-9WHMUV3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 35255,
+            "dimensions": [
+                210,
+                164
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "what-we-do-3-1-3.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/what-we-do-3-1-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 14031,
+            "dimensions": [
+                210,
+                164
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "service-1-1.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/service-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/all-services.json",
+                    "name": "All Services"
+                }
+            ],
+            "filesize": 27191,
+            "dimensions": [
+                370,
+                271
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "service-1-2.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/service-1-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/all-services.json",
+                    "name": "All Services"
+                }
+            ],
+            "filesize": 30129,
+            "dimensions": [
+                370,
+                271
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "service-1-3.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/service-1-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/all-services.json",
+                    "name": "All Services"
+                }
+            ],
+            "filesize": 28402,
+            "dimensions": [
+                370,
+                271
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "img_About-TELVHCF-e1637815782427.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/img_About-TELVHCF-e1637815782427.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 17526,
+            "dimensions": [
+                370,
+                216
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "img_About-AXMM8EX.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/img_About-AXMM8EX.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 70245,
+            "dimensions": [
+                370,
+                216
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "about-1-3.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/about-1-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 36085,
+            "dimensions": [
+                370,
+                216
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "testi-bg-1-1.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/testi-bg-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 407190,
+            "dimensions": [
+                1894,
+                1268
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "placeholder.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/placeholder.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 83575,
+            "dimensions": [
+                1600,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "placeholder-1.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/placeholder-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 83575,
+            "dimensions": [
+                1600,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "placeholder-2.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/placeholder-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 83575,
+            "dimensions": [
+                1600,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "placeholder-3.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/placeholder-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 83575,
+            "dimensions": [
+                1600,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "bg-b.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/bg-b.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 10121,
+            "dimensions": [
+                863,
+                883
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "placeholder-4.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/placeholder-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 83575,
+            "dimensions": [
+                1600,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "placeholder-5.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/placeholder-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 83575,
+            "dimensions": [
+                1600,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "banner-featured-1-1.png",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/banner-featured-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 234427,
+            "dimensions": [
+                1045,
+                813
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "service-bg-1-1.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/service-bg-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 171610,
+            "dimensions": [
+                662,
+                796
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "img_about_Home-ETDNRCQ.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/img_about_Home-ETDNRCQ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 69573,
+            "dimensions": [
+                360,
+                255
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "placeholder-6.png",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/placeholder-6.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "placeholder-7.png",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/placeholder-7.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "placeholder-8.png",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/placeholder-8.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "placeholder-9.png",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/placeholder-9.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "placeholder-10.png",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/placeholder-10.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "placeholder-6.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/placeholder-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 83575,
+            "dimensions": [
+                1600,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "placeholder-7.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/placeholder-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 83575,
+            "dimensions": [
+                1600,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "cta-bg-2-1.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/cta-bg-2-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 185603,
+            "dimensions": [
+                1894,
+                584
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "banner-1-1.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/banner-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 268771,
+            "dimensions": [
+                1894,
+                813
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "banner-1-2.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/banner-1-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 217166,
+            "dimensions": [
+                1894,
+                813
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "what-we-do-1-1.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/what-we-do-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 34588,
+            "dimensions": [
+                570,
+                220
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "placeholder-8.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/placeholder-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 83575,
+            "dimensions": [
+                1600,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "placeholder-9.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/placeholder-9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 83575,
+            "dimensions": [
+                1600,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "placeholder-10.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/placeholder-10.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 83575,
+            "dimensions": [
+                1600,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "placeholder-11.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/placeholder-11.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 83575,
+            "dimensions": [
+                1600,
+                900
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "cta-bg-1-2.png",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/cta-bg-1-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 102944,
+            "dimensions": [
+                1037,
+                914
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "placeholder-12.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/placeholder-12.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 83575,
+            "dimensions": [
+                1600,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "placeholder-13.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/placeholder-13.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 83575,
+            "dimensions": [
+                1600,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "free-sample-1-2.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.co\/printifykit\/wp-content\/uploads\/2023\/03\/free-sample-1-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 136367,
+            "dimensions": [
+                932,
+                660
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        }
+    ]
+}

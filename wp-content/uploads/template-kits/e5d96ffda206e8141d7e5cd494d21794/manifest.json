@@ -1,0 +1,1841 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Hostink - Hosting Services Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home1",
+            "screenshot": "screenshots\/home1.jpg",
+            "source": "templates\/home1.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/hostink\/template-kit\/home1\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home2",
+            "screenshot": "screenshots\/home2.jpg",
+            "source": "templates\/home2.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/hostink\/template-kit\/home2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home3",
+            "screenshot": "screenshots\/home3.jpg",
+            "source": "templates\/home3.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/hostink\/template-kit\/home3\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/hostink\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/hostink\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/hostink\/template-kit\/coming-soon\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "404 Error",
+            "screenshot": "screenshots\/404-error.jpg",
+            "source": "templates\/404-error.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/hostink\/template-kit\/404-error\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog Lists",
+            "screenshot": "screenshots\/blog-lists.jpg",
+            "source": "templates\/blog-lists.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/hostink\/template-kit\/blog-lists\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Faq",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/hostink\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/hostink\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Pricing",
+            "screenshot": "screenshots\/our-pricing.jpg",
+            "source": "templates\/our-pricing.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/hostink\/template-kit\/our-pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/hostink\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Service Detail",
+            "screenshot": "screenshots\/service-detail.jpg",
+            "source": "templates\/service-detail.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/hostink\/template-kit\/service-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Projects",
+            "screenshot": "screenshots\/projects.jpg",
+            "source": "templates\/projects.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/hostink\/template-kit\/projects\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Project Detail",
+            "screenshot": "screenshots\/project-detail.jpg",
+            "source": "templates\/project-detail.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/hostink\/template-kit\/project-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/hostink\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/hostink\/template-kit\/header\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header2",
+            "screenshot": "screenshots\/header2.jpg",
+            "source": "templates\/header2.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/hostink\/template-kit\/header2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/hostink\/template-kit\/footer\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer 2",
+            "screenshot": "screenshots\/footer-2.jpg",
+            "source": "templates\/footer-2.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/hostink\/template-kit\/footer-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Banner",
+            "screenshot": "screenshots\/banner.jpg",
+            "source": "templates\/banner.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/hostink\/template-kit\/banner\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Block",
+            "screenshot": "screenshots\/about-block.jpg",
+            "source": "templates\/about-block.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/hostink\/template-kit\/about-block\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/hostink\/template-kit\/contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Faq Block",
+            "screenshot": "screenshots\/faq-block.jpg",
+            "source": "templates\/faq-block.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/hostink\/template-kit\/faq-block\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Testimonial Block",
+            "screenshot": "screenshots\/testimonial-block.jpg",
+            "source": "templates\/testimonial-block.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/hostink\/template-kit\/testimonial-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/hostink\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Service Block",
+            "screenshot": "screenshots\/service-block.jpg",
+            "source": "templates\/service-block.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/hostink\/template-kit\/service-block\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Project Block",
+            "screenshot": "screenshots\/project-block.jpg",
+            "source": "templates\/project-block.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/hostink\/template-kit\/project-block\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team Block",
+            "screenshot": "screenshots\/team-block.jpg",
+            "source": "templates\/team-block.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/hostink\/template-kit\/team-block\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.12.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.8.7",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.13",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.6.1",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.3.0",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "dot-dot1.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/dot-dot1.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/home3.json",
+                    "name": "Home3"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/404-error.json",
+                    "name": "404 Error"
+                },
+                {
+                    "source": "templates\/blog-lists.json",
+                    "name": "Blog Lists"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/header2.json",
+                    "name": "Header2"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/footer-2.json",
+                    "name": "Footer 2"
+                }
+            ],
+            "filesize": 97801,
+            "dimensions": [
+                662,
+                934
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Isometric1.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/Isometric1.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/banner.json",
+                    "name": "Banner"
+                },
+                {
+                    "source": "templates\/about-block.json",
+                    "name": "About Block"
+                }
+            ],
+            "filesize": 244581,
+            "dimensions": [
+                434,
+                479
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "Tech-Support.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/Tech-Support.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 11984,
+            "dimensions": [
+                256,
+                256
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "Fast-Access.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/Fast-Access.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 17055,
+            "dimensions": [
+                256,
+                256
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "Authorization-Manager.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/Authorization-Manager.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 13519,
+            "dimensions": [
+                256,
+                256
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "Globe-1.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/Globe-1-800x823.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/home3.json",
+                    "name": "Home3"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/about-block.json",
+                    "name": "About Block"
+                }
+            ],
+            "filesize": 231092,
+            "dimensions": [
+                1407,
+                1447
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "security-serv.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/security-serv.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/404-error.json",
+                    "name": "404 Error"
+                },
+                {
+                    "source": "templates\/about-block.json",
+                    "name": "About Block"
+                }
+            ],
+            "filesize": 62503,
+            "dimensions": [
+                496,
+                501
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "circle-abstract2.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/circle-abstract2.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faq-block.json",
+                    "name": "Faq Block"
+                },
+                {
+                    "source": "templates\/service-block.json",
+                    "name": "Service Block"
+                }
+            ],
+            "filesize": 205746,
+            "dimensions": [
+                579,
+                465
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Database.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/Database.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/home3.json",
+                    "name": "Home3"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-block.json",
+                    "name": "Service Block"
+                }
+            ],
+            "filesize": 7591,
+            "dimensions": [
+                256,
+                256
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "Server-Client.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/Server-Client.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/home3.json",
+                    "name": "Home3"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-block.json",
+                    "name": "Service Block"
+                }
+            ],
+            "filesize": 6681,
+            "dimensions": [
+                256,
+                256
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "Database-Network.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/Database-Network.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/home3.json",
+                    "name": "Home3"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-block.json",
+                    "name": "Service Block"
+                }
+            ],
+            "filesize": 11417,
+            "dimensions": [
+                256,
+                256
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "Cloud-Circuit.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/Cloud-Circuit.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/home3.json",
+                    "name": "Home3"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-block.json",
+                    "name": "Service Block"
+                }
+            ],
+            "filesize": 9491,
+            "dimensions": [
+                256,
+                256
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "Domain.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/Domain.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/home3.json",
+                    "name": "Home3"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-block.json",
+                    "name": "Service Block"
+                }
+            ],
+            "filesize": 10197,
+            "dimensions": [
+                256,
+                256
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "network-hub.svg",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/network-hub.svg",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/home3.json",
+                    "name": "Home3"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-block.json",
+                    "name": "Service Block"
+                }
+            ],
+            "filesize": 7143,
+            "dimensions": [
+                128,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "Dedicated-Server.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/Dedicated-Server.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/home3.json",
+                    "name": "Home3"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-block.json",
+                    "name": "Service Block"
+                }
+            ],
+            "filesize": 10612,
+            "dimensions": [
+                256,
+                256
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "speaker_bg.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/speaker_bg-800x555.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/home3.json",
+                    "name": "Home3"
+                },
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 32136,
+            "dimensions": [
+                1600,
+                1110
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "world-maps.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/world-maps-800x474.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 108835,
+            "dimensions": [
+                862,
+                511
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "12-Adventure-Logo-02.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/12-Adventure-Logo-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 2921,
+            "dimensions": [
+                158,
+                86
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "12-Adventure-Logo-03.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/12-Adventure-Logo-03.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 2885,
+            "dimensions": [
+                143,
+                86
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "12-Adventure-Logo-05.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/12-Adventure-Logo-05.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 2380,
+            "dimensions": [
+                158,
+                86
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "12-Adventure-Logo-04.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/12-Adventure-Logo-04.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 2616,
+            "dimensions": [
+                158,
+                86
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "03-Isometric-Server-illustration.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/03-Isometric-Server-illustration.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                }
+            ],
+            "filesize": 231056,
+            "dimensions": [
+                722,
+                542
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "testimonial-1-1.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/testimonial-1-1-800x391.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/home3.json",
+                    "name": "Home3"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/testimonial-block.json",
+                    "name": "Testimonial Block"
+                }
+            ],
+            "filesize": 42256,
+            "dimensions": [
+                1432,
+                700
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "line-abstract.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/line-abstract-800x642.png",
+            "templates": [
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/header2.json",
+                    "name": "Header2"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/banner.json",
+                    "name": "Banner"
+                }
+            ],
+            "filesize": 57016,
+            "dimensions": [
+                993,
+                797
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "superhero11-01.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/superhero11-01-800x642.png",
+            "templates": [
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/banner.json",
+                    "name": "Banner"
+                }
+            ],
+            "filesize": 94402,
+            "dimensions": [
+                1099,
+                882
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "circle-abstract1.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/circle-abstract1.png",
+            "templates": [
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/home3.json",
+                    "name": "Home3"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/project-block.json",
+                    "name": "Project Block"
+                }
+            ],
+            "filesize": 311795,
+            "dimensions": [
+                695,
+                558
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "studio-portrait-of-a-mature-businessman-against-a-2023-01-04-20-13-17-utc.jpg",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/studio-portrait-of-a-mature-businessman-against-a-2023-01-04-20-13-17-utc-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/home3.json",
+                    "name": "Home3"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/testimonial-block.json",
+                    "name": "Testimonial Block"
+                },
+                {
+                    "source": "templates\/team-block.json",
+                    "name": "Team Block"
+                }
+            ],
+            "filesize": 177588,
+            "dimensions": [
+                812,
+                812
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "portrait-of-a-young-businesswoman-using-her-laptop-2023-01-10-22-51-55-utc.jpg",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/portrait-of-a-young-businesswoman-using-her-laptop-2023-01-10-22-51-55-utc-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/home3.json",
+                    "name": "Home3"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/testimonial-block.json",
+                    "name": "Testimonial Block"
+                },
+                {
+                    "source": "templates\/team-block.json",
+                    "name": "Team Block"
+                }
+            ],
+            "filesize": 162977,
+            "dimensions": [
+                812,
+                812
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "music-neon-and-gen-z-with-a-woman-in-studio-liste-2023-03-01-20-56-36-utc.jpg",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/music-neon-and-gen-z-with-a-woman-in-studio-liste-2023-03-01-20-56-36-utc-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/home3.json",
+                    "name": "Home3"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/testimonial-block.json",
+                    "name": "Testimonial Block"
+                },
+                {
+                    "source": "templates\/team-block.json",
+                    "name": "Team Block"
+                }
+            ],
+            "filesize": 176160,
+            "dimensions": [
+                812,
+                812
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "portrait-of-a-man-using-a-computer-in-a-modern-off-2022-10-06-03-15-08-utc.jpg",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/portrait-of-a-man-using-a-computer-in-a-modern-off-2022-10-06-03-15-08-utc-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/home3.json",
+                    "name": "Home3"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/testimonial-block.json",
+                    "name": "Testimonial Block"
+                },
+                {
+                    "source": "templates\/team-block.json",
+                    "name": "Team Block"
+                }
+            ],
+            "filesize": 192695,
+            "dimensions": [
+                812,
+                812
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "server-engineers-in-data-center-2021-09-24-04-16-29-utc.jpg",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/server-engineers-in-data-center-2021-09-24-04-16-29-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home3.json",
+                    "name": "Home3"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/footer-2.json",
+                    "name": "Footer 2"
+                },
+                {
+                    "source": "templates\/banner.json",
+                    "name": "Banner"
+                },
+                {
+                    "source": "templates\/project-block.json",
+                    "name": "Project Block"
+                }
+            ],
+            "filesize": 165984,
+            "dimensions": [
+                1056,
+                704
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "caucasian-female-engineer-using-laptop-and-asian-m-2021-12-09-17-52-28-utc.jpg",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/caucasian-female-engineer-using-laptop-and-asian-m-2021-12-09-17-52-28-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home3.json",
+                    "name": "Home3"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/footer-2.json",
+                    "name": "Footer 2"
+                },
+                {
+                    "source": "templates\/banner.json",
+                    "name": "Banner"
+                },
+                {
+                    "source": "templates\/project-block.json",
+                    "name": "Project Block"
+                }
+            ],
+            "filesize": 160249,
+            "dimensions": [
+                1056,
+                704
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "asian-man-working-with-network-server-2022-02-01-22-37-01-utc.jpg",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/asian-man-working-with-network-server-2022-02-01-22-37-01-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home3.json",
+                    "name": "Home3"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/footer-2.json",
+                    "name": "Footer 2"
+                },
+                {
+                    "source": "templates\/banner.json",
+                    "name": "Banner"
+                },
+                {
+                    "source": "templates\/project-block.json",
+                    "name": "Project Block"
+                }
+            ],
+            "filesize": 187719,
+            "dimensions": [
+                1056,
+                704
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "bearded-caucasian-programmer-finding-and-troublesh-2021-10-06-22-08-25-utc.jpg",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/bearded-caucasian-programmer-finding-and-troublesh-2021-10-06-22-08-25-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home3.json",
+                    "name": "Home3"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/footer-2.json",
+                    "name": "Footer 2"
+                },
+                {
+                    "source": "templates\/banner.json",
+                    "name": "Banner"
+                },
+                {
+                    "source": "templates\/project-block.json",
+                    "name": "Project Block"
+                }
+            ],
+            "filesize": 191435,
+            "dimensions": [
+                1056,
+                704
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "diverse-computer-hacking-shoot-2022-12-16-00-40-52-utc.jpg",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/diverse-computer-hacking-shoot-2022-12-16-00-40-52-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home3.json",
+                    "name": "Home3"
+                }
+            ],
+            "filesize": 178032,
+            "dimensions": [
+                686,
+                686
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "server-technician-specialist-working-on-laptop-2023-03-24-21-27-26-utc.jpg",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/server-technician-specialist-working-on-laptop-2023-03-24-21-27-26-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home3.json",
+                    "name": "Home3"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/footer-2.json",
+                    "name": "Footer 2"
+                },
+                {
+                    "source": "templates\/project-block.json",
+                    "name": "Project Block"
+                }
+            ],
+            "filesize": 198416,
+            "dimensions": [
+                1056,
+                704
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "close-up-view-of-internet-equipment-and-cables-in-2021-08-28-22-30-54-utc.jpg",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/close-up-view-of-internet-equipment-and-cables-in-2021-08-28-22-30-54-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home3.json",
+                    "name": "Home3"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/footer-2.json",
+                    "name": "Footer 2"
+                },
+                {
+                    "source": "templates\/project-block.json",
+                    "name": "Project Block"
+                }
+            ],
+            "filesize": 179585,
+            "dimensions": [
+                1056,
+                704
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "03-Isometric-Server-illustration-01.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/03-Isometric-Server-illustration-01-800x600.png",
+            "templates": [
+                {
+                    "source": "templates\/home3.json",
+                    "name": "Home3"
+                }
+            ],
+            "filesize": 308978,
+            "dimensions": [
+                1000,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "h-logo-03.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/h-logo-03.png",
+            "templates": [
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/header2.json",
+                    "name": "Header2"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/footer-2.json",
+                    "name": "Footer 2"
+                }
+            ],
+            "filesize": 4085,
+            "dimensions": [
+                402,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Isometric.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/Isometric.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 356943,
+            "dimensions": [
+                578,
+                639
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "confident-in-her-customers-care-2023-01-21-02-07-42-utc1.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/confident-in-her-customers-care-2023-01-21-02-07-42-utc1.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/header2.json",
+                    "name": "Header2"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 246360,
+            "dimensions": [
+                356,
+                640
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/UWXFVLCEHA"
+        },
+        {
+            "filename": "h-logo-01.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/hostink\/wp-content\/uploads\/sites\/30\/2023\/04\/h-logo-01.png",
+            "templates": [
+                {
+                    "source": "templates\/header2.json",
+                    "name": "Header2"
+                }
+            ],
+            "filesize": 4526,
+            "dimensions": [
+                402,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

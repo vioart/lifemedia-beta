@@ -1,0 +1,1471 @@
+{
+    "manifest_version": "1.0.20",
+    "title": "Inexus",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Packages",
+            "screenshot": "screenshots\/packages.jpg",
+            "source": "templates\/packages.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/template-kit\/packages\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Detail Service",
+            "screenshot": "screenshots\/detail-service.jpg",
+            "source": "templates\/detail-service.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/template-kit\/detail-service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Careers",
+            "screenshot": "screenshots\/careers.jpg",
+            "source": "templates\/careers.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/template-kit\/careers\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Career Detail",
+            "screenshot": "screenshots\/career-detail.jpg",
+            "source": "templates\/career-detail.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/template-kit\/career-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Theme Builder \u2013 Header (Elementor Pro)",
+            "screenshot": "screenshots\/theme-builder-header-elementor-pro-.jpg",
+            "source": "templates\/theme-builder-header-elementor-pro-.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/?elementor_library=theme-builder-header-elementor-pro",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Theme Builder \u2013 Footer (Elementor Pro)",
+            "screenshot": "screenshots\/theme-builder-footer-elementor-pro-.jpg",
+            "source": "templates\/theme-builder-footer-elementor-pro-.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/?elementor_library=theme-builder-footer-elementor-pro",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.4.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.3.2",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "play-01.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/play-01.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 33081,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg-connection-03.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/bg-connection-03.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 40093,
+            "dimensions": [
+                564,
+                577
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "handsome-black-guy-having-video-call-using-laptop-2021-10-30-17-47-11-utc.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/handsome-black-guy-having-video-call-using-laptop-2021-10-30-17-47-11-utc-800x534.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 150730,
+            "dimensions": [
+                1024,
+                683
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-black-guy-having-video-call-using-laptop-5VW7CL3"
+        },
+        {
+            "filename": "feature-01b.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/feature-01b.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 2360,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "feature-02a.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/feature-02a.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 2376,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "feature-03a.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/feature-03a.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 2580,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "feature-04a.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/feature-04a.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 2650,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "remote-study-mom-and-little-daughter-using-laptop-02.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/remote-study-mom-and-little-daughter-using-laptop-02-800x763.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 78582,
+            "dimensions": [
+                1024,
+                976
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/remote-study-mom-and-little-daughter-using-laptop--RQYGSX9"
+        },
+        {
+            "filename": "bg-element-01.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/bg-element-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/detail-service.json",
+                    "name": "Detail Service"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 20943,
+            "dimensions": [
+                283,
+                362
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "speed.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/speed.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/detail-service.json",
+                    "name": "Detail Service"
+                }
+            ],
+            "filesize": 2485,
+            "dimensions": [
+                376,
+                197
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "world-map-purple-03.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/world-map-purple-03-800x449.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/detail-service.json",
+                    "name": "Detail Service"
+                }
+            ],
+            "filesize": 13841,
+            "dimensions": [
+                1920,
+                1077
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/square-dotted-world-map-and-earth-globes-Q676QDA"
+        },
+        {
+            "filename": "logo-01.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/logo-01.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 3068,
+            "dimensions": [
+                214,
+                45
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-02.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/logo-02.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 1970,
+            "dimensions": [
+                256,
+                52
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-03.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/logo-03.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 1436,
+            "dimensions": [
+                178,
+                50
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-04.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/logo-04.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 1691,
+            "dimensions": [
+                260,
+                45
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "indicator-05.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/indicator-05.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 679,
+            "dimensions": [
+                98,
+                77
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "pinned.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/pinned.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 2036,
+            "dimensions": [
+                76,
+                54
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "world-map-04.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/world-map-04-800x449.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 40815,
+            "dimensions": [
+                1920,
+                1077
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/square-dotted-world-map-and-earth-globes-Q676QDA"
+        },
+        {
+            "filename": "portrait-of-glad-young-afro-american-woman-laughs-2021-08-31-09-15-33-utc_1-removebg-preview-2.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/portrait-of-glad-young-afro-american-woman-laughs-2021-08-31-09-15-33-utc_1-removebg-preview-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 93192,
+            "dimensions": [
+                383,
+                651
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-glad-young-afro-american-woman-laughs--XPZF67S"
+        },
+        {
+            "filename": "quote.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/quote.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 2841,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "bg-square-dots-02.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/bg-square-dots-02-800x250.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/detail-service.json",
+                    "name": "Detail Service"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                },
+                {
+                    "source": "templates\/career-detail.json",
+                    "name": "Career Detail"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 560,
+            "dimensions": [
+                1920,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "cropped-view-of-businessman-writing-in-notebook-ne-01.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/cropped-view-of-businessman-writing-in-notebook-ne-01-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                }
+            ],
+            "filesize": 45841,
+            "dimensions": [
+                1024,
+                684
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cropped-view-of-businessman-writing-in-notebook-ne-95PS27L"
+        },
+        {
+            "filename": "logo-01a.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/logo-01a.png",
+            "templates": [
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                }
+            ],
+            "filesize": 2774,
+            "dimensions": [
+                214,
+                45
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-02a.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/logo-02a.png",
+            "templates": [
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                }
+            ],
+            "filesize": 1818,
+            "dimensions": [
+                256,
+                52
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-03-white.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/logo-03-white.png",
+            "templates": [
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                }
+            ],
+            "filesize": 1302,
+            "dimensions": [
+                178,
+                50
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-04a.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/logo-04a.png",
+            "templates": [
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                }
+            ],
+            "filesize": 1534,
+            "dimensions": [
+                260,
+                45
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "service-01.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/service-01.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 24628,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "service-02.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/service-02.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 24646,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "service-03.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/service-03.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 24724,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "service-04.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/service-04.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 24600,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "service-05.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/service-05.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 24337,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "service-07.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/service-07.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 24783,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "half-length-shot-of-cheerful-senior-man-smiles-hap.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/half-length-shot-of-cheerful-senior-man-smiles-hap.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 115954,
+            "dimensions": [
+                448,
+                557
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/half-length-shot-of-cheerful-senior-man-smiles-hap-36A6ZXK"
+        },
+        {
+            "filename": "happy-female-family-looking-for-recipe-on-internet-01.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/happy-female-family-looking-for-recipe-on-internet-01-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/detail-service.json",
+                    "name": "Detail Service"
+                }
+            ],
+            "filesize": 70401,
+            "dimensions": [
+                1024,
+                683
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-female-family-looking-for-recipe-on-internet-KUPE4ZT"
+        },
+        {
+            "filename": "reason-02.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/reason-02.png",
+            "templates": [
+                {
+                    "source": "templates\/detail-service.json",
+                    "name": "Detail Service"
+                }
+            ],
+            "filesize": 1650,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "reason-01.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/reason-01.png",
+            "templates": [
+                {
+                    "source": "templates\/detail-service.json",
+                    "name": "Detail Service"
+                }
+            ],
+            "filesize": 2344,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "reason-03.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/reason-03.png",
+            "templates": [
+                {
+                    "source": "templates\/detail-service.json",
+                    "name": "Detail Service"
+                }
+            ],
+            "filesize": 2300,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "woman-connecting-to-wi-fi-router-03.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/woman-connecting-to-wi-fi-router-03-800x513.jpg",
+            "templates": [
+                {
+                    "source": "templates\/detail-service.json",
+                    "name": "Detail Service"
+                }
+            ],
+            "filesize": 47895,
+            "dimensions": [
+                1024,
+                656
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-connecting-to-wi-fi-router-N5YLVZZ"
+        },
+        {
+            "filename": "businesspeople-group-in-coworking-center-coworker-01.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/businesspeople-group-in-coworking-center-coworker-01-800x601.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 84467,
+            "dimensions": [
+                1024,
+                769
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/businesspeople-group-in-coworking-center-coworkers-3MBUR8A"
+        },
+        {
+            "filename": "features-06.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/features-06.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 2298,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "features-05.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/features-05.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 2359,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "features-08.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/features-08.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 2480,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "diverse-team-of-employees-have-informal-meeting-at-01.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/diverse-team-of-employees-have-informal-meeting-at-01-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 62096,
+            "dimensions": [
+                1024,
+                683
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/diverse-team-of-employees-have-informal-meeting-at-P8KQ2AE"
+        },
+        {
+            "filename": "counter-icon-01.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/counter-icon-01.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 2337,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "counter-icon-02.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/counter-icon-02.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 2885,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "counter-icon-03.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/counter-icon-03.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 2844,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "team-photo-01.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/team-photo-01-800x781.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 100530,
+            "dimensions": [
+                1024,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/busy-male-enterpreneur-work-with-papers-or-documen-J64HJXC"
+        },
+        {
+            "filename": "team-photo-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/team-photo-2-800x781.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 51366,
+            "dimensions": [
+                1024,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/people-business-and-work-concept-cheerful-female-e-ME733XY"
+        },
+        {
+            "filename": "team-photo-3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/team-photo-3-800x781.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 64127,
+            "dimensions": [
+                1024,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/horizontal-shot-of-handsome-self-confident-busines-STUQYTL"
+        },
+        {
+            "filename": "team-photo-4.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/team-photo-4-800x781.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 88158,
+            "dimensions": [
+                1024,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-female-freelancer-works-remotely-at-home--GN8KMJY"
+        },
+        {
+            "filename": "team-photo-5.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/team-photo-5-800x781.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 91143,
+            "dimensions": [
+                1024,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-pleasant-looking-smiling-female-with-p-CQ6TXSR"
+        },
+        {
+            "filename": "team-photo-6.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/team-photo-6-800x781.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 62423,
+            "dimensions": [
+                1024,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/waist-up-shot-of-handsome-self-confident-cheerful--BUTM9PX"
+        },
+        {
+            "filename": "team-photo-7.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/team-photo-7-800x781.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 54850,
+            "dimensions": [
+                1024,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/people-success-and-promotion-concept-fashionable-y-M7TT4GG"
+        },
+        {
+            "filename": "team-photo-8.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/team-photo-8-800x781.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 94040,
+            "dimensions": [
+                1024,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pleasant-looking-self-assured-female-student-in-st-CGFV8JU"
+        },
+        {
+            "filename": "team-01.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/team-01-800x662.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 75406,
+            "dimensions": [
+                1024,
+                847
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/diverse-team-of-employees-have-informal-meeting-at-P8KQ2AE"
+        },
+        {
+            "filename": "quote-02.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/quote-02.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 907,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/iconsax.io\/"
+        },
+        {
+            "filename": "lovely-brunette-woman-with-eastern-appearance-keep-03.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/lovely-brunette-woman-with-eastern-appearance-keep-03-800x534.png",
+            "templates": [
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 102683,
+            "dimensions": [
+                1024,
+                683
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/lovely-brunette-woman-with-eastern-appearance-keep-M9TGHJN"
+        },
+        {
+            "filename": "team-02.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/team-02-800x662.jpg",
+            "templates": [
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 96110,
+            "dimensions": [
+                1024,
+                847
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-young-asia-businessmen-and-businesswomen-mee-P67U7LH"
+        },
+        {
+            "filename": "team-03.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/team-03-800x662.jpg",
+            "templates": [
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 66786,
+            "dimensions": [
+                1024,
+                847
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-young-asia-businessmen-and-businesswomen-mee-RMB7BPA"
+        },
+        {
+            "filename": "team-04.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/team-04-800x397.jpg",
+            "templates": [
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 126108,
+            "dimensions": [
+                1024,
+                508
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/people-working-in-team-startup-partners-sitting-at-FJBUEK2"
+        },
+        {
+            "filename": "team-05.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/team-05-800x992.jpg",
+            "templates": [
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 72988,
+            "dimensions": [
+                1024,
+                1270
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-coworker-asia-creative-businessman-and-busin-JJ49R9D"
+        },
+        {
+            "filename": "team-06.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/team-06-800x992.jpg",
+            "templates": [
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 108242,
+            "dimensions": [
+                1024,
+                1270
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-young-asia-businessmen-and-businesswomen-mee-A9CFAAN"
+        },
+        {
+            "filename": "bg-square-dots-03.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/providerkit\/wp-content\/uploads\/sites\/37\/2021\/11\/bg-square-dots-03-800x375.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 721,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

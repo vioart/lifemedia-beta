@@ -1,0 +1,50 @@
+{
+    "version": "0.4",
+    "title": "Consultco-Contcat Form",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-contact",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "69ecbb40",
+            "settings": {
+                "flex_direction": "column",
+                "element_pack_agbg_color_list": [
+                    {
+                        "_id": "2490c01"
+                    },
+                    {
+                        "start_color": "#567445",
+                        "end_color": "#1D1BE0",
+                        "_id": "2acfbeb"
+                    }
+                ]
+            },
+            "elements": [
+                {
+                    "id": "7b3e433c",
+                    "settings": {
+                        "mf_form_id": "2344***1703059002498",
+                        "element_pack_widget_tooltip_text": "This is Tooltip",
+                        "element_pack_widget_effect_transition_duration": "300",
+                        "element_pack_widget_effect_transition_easing": "ease-out"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "metform",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": {
+        "ep_grid_line_columns": "",
+        "template": "elementor_header_footer"
+    }
+}

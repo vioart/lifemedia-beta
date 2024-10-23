@@ -1,0 +1,1205 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Kebit - Template kit for broadband & internet",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/theme.creativemox.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/kebit\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/kebit\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Help Center",
+            "screenshot": "screenshots\/help-center.jpg",
+            "source": "templates\/help-center.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/kebit\/template-kit\/help-center\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/kebit\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Package",
+            "screenshot": "screenshots\/package.jpg",
+            "source": "templates\/package.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/kebit\/template-kit\/package\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Promo",
+            "screenshot": "screenshots\/promo.jpg",
+            "source": "templates\/promo.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/kebit\/template-kit\/promo\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/kebit\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Service",
+            "screenshot": "screenshots\/single-service.jpg",
+            "source": "templates\/single-service.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/kebit\/template-kit\/single-service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/kebit\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Kebit - Header",
+            "screenshot": "screenshots\/kebit-header.jpg",
+            "source": "templates\/kebit-header.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/kebit\/?elementor_library=kebit-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Kebit - Footer",
+            "screenshot": "screenshots\/kebit-footer.jpg",
+            "source": "templates\/kebit-footer.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/kebit\/?elementor_library=kebit-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Kebit - Blog Archive",
+            "screenshot": "screenshots\/kebit-blog-archive.jpg",
+            "source": "templates\/kebit-blog-archive.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/kebit\/?elementor_library=kebit-archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Kebit - Single Post",
+            "screenshot": "screenshots\/kebit-single-post.jpg",
+            "source": "templates\/kebit-single-post.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/kebit\/?elementor_library=kebit-single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: All Singular."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Kebit - Error 404",
+            "screenshot": "screenshots\/kebit-error-404.jpg",
+            "source": "templates\/kebit-error-404.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/kebit\/?elementor_library=kebit-error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.0.4",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Skyboot Custom Icons for Elementor - Elementor Icons library",
+            "version": "1.0.7",
+            "file": "skyboot-custom-icons-for-elementor\/skyboot-custom-icons-for-elementor.php",
+            "author": "Skybootstrap"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.19.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.19.2",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "happy-african-american-family-enjoying-while-watching-movie-on-laptop-at-home-1-1.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/happy-african-american-family-enjoying-while-watching-movie-on-laptop-at-home-1-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 122459,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3RQW9SD"
+        },
+        {
+            "filename": "happy-couple-watching-movie-while-relaxing-on-the-sofa-at-home-.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/happy-couple-watching-movie-while-relaxing-on-the-sofa-at-home--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 131502,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-B8RE3AQ"
+        },
+        {
+            "filename": "happy-black-entrepreneur-using-laptop-by-the-window-in-the-office-.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/happy-black-entrepreneur-using-laptop-by-the-window-in-the-office--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 91266,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JHSB5HV"
+        },
+        {
+            "filename": "exploring-about-plants-on-the-internet.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/exploring-about-plants-on-the-internet-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/promo.json",
+                    "name": "Promo"
+                }
+            ],
+            "filesize": 107997,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/exploring-about-plants-on-the-internet-DANQ73W"
+        },
+        {
+            "filename": "confident-caucasian-it-support-call-center-female-worker-in-headset-watching.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/confident-caucasian-it-support-call-center-female-worker-in-headset-watching-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 93537,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/confident-caucasian-it-support-call-center-female--T3ZRBRZ"
+        },
+        {
+            "filename": "optical-fiber-flash.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/optical-fiber-flash-800x422.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 108694,
+            "dimensions": [
+                1280,
+                675
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-JF8HRDC"
+        },
+        {
+            "filename": "logo-1.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2063,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-2.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1811,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-3.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/logo-3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2079,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-4.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/logo-4.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2193,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-5.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/logo-5.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2300,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-11.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/logo-11.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1900,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "map__3.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/map__3-800x468.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 79517,
+            "dimensions": [
+                1080,
+                632
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "customer-support.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/customer-support-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 132378,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/customer-support-WNYL5S5"
+        },
+        {
+            "filename": "black-digital-computer-data-and-network-connection-triangle-lines-and-spheres-in-futuristic.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/black-digital-computer-data-and-network-connection-triangle-lines-and-spheres-in-futuristic-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 78581,
+            "dimensions": [
+                2000,
+                1125
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "tv_box.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/tv_box.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 58038,
+            "dimensions": [
+                686,
+                558
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "young-man-browsing-internet-making-video-call-with-laptop-computer-on-sofa-.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/young-man-browsing-internet-making-video-call-with-laptop-computer-on-sofa--800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/help-center.json",
+                    "name": "Help Center"
+                },
+                {
+                    "source": "templates\/promo.json",
+                    "name": "Promo"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 132253,
+            "dimensions": [
+                1280,
+                719
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-man-browsing-internet-making-video-call-with-C5V8BPA"
+        },
+        {
+            "filename": "young-technician-man-working-with-tablet-inside-big-data-center-room.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/young-technician-man-working-with-tablet-inside-big-data-center-room-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 189339,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-technician-man-working-with-tablet-inside-bi-85ST7F2"
+        },
+        {
+            "filename": "female-freelancer-in-casual-clothes-focused-in-smartphone-display-checks-information-in-internet.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/female-freelancer-in-casual-clothes-focused-in-smartphone-display-checks-information-in-internet-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/help-center.json",
+                    "name": "Help Center"
+                },
+                {
+                    "source": "templates\/promo.json",
+                    "name": "Promo"
+                }
+            ],
+            "filesize": 116878,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/female-freelancer-in-casual-clothes-focused-in-sma-B3E5C3K"
+        },
+        {
+            "filename": "best-team-ever-.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/best-team-ever--800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 160360,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/best-team-ever-67SF4BG"
+        },
+        {
+            "filename": "ecommerce-boxes-and-woman-with-a-tablet-business-and-smile-with-connection-internet-and-delivery.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/01\/ecommerce-boxes-and-woman-with-a-tablet-business-and-smile-with-connection-internet-and-delivery-800x422.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 80883,
+            "dimensions": [
+                1280,
+                675
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NQUJYSY"
+        },
+        {
+            "filename": "celebration-radio-group-and-staff-with-applause-laptop-and-prize-with-internet-giveaway-and-coll.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/celebration-radio-group-and-staff-with-applause-laptop-and-prize-with-internet-giveaway-and-coll-800x519.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 129056,
+            "dimensions": [
+                1280,
+                830
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/celebration-radio-group-and-staff-with-applause-la-SXWKMKC"
+        },
+        {
+            "filename": "happy-confident-mid-aged-business-man-standing-in-2023-11-27-05-24-55-utc.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/happy-confident-mid-aged-business-man-standing-in-2023-11-27-05-24-55-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 38441,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-confident-mid-aged-business-man-standing-in--XKGRG4P"
+        },
+        {
+            "filename": "successful-man-business-attractive-hispanic-portra-2023-11-27-05-15-48-utc.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/successful-man-business-attractive-hispanic-portra-2023-11-27-05-15-48-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 43186,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/successful-man-business-attractive-hispanic-portra-2CPU4GX"
+        },
+        {
+            "filename": "image-of-young-asian-woman-company-worker-smiling-2023-11-27-05-10-33-utc2.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/image-of-young-asian-woman-company-worker-smiling-2023-11-27-05-10-33-utc2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 29100,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-of-young-asian-woman-company-worker-smiling--W33KECH"
+        },
+        {
+            "filename": "portrait-of-a-confident-mature-businessman-standin-2023-11-27-05-35-26-utc2.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/portrait-of-a-confident-mature-businessman-standin-2023-11-27-05-35-26-utc2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 33316,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-a-confident-mature-businessman-standin-YBR5EK4"
+        },
+        {
+            "filename": "young-asian-woman-professional-entrepreneur-stand-2023-11-27-04-56-50-utc2.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/young-asian-woman-professional-entrepreneur-stand-2023-11-27-04-56-50-utc2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 36820,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-of-young-asian-woman-company-worker-in-glass-BDJLR4R"
+        },
+        {
+            "filename": "professional-corporate-businesswoman-with-arms-cr-2023-11-27-05-15-32-utc2.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/professional-corporate-businesswoman-with-arms-cr-2023-11-27-05-15-32-utc2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 28586,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/confident-black-businesswoman-with-arms-crossed-in-W72RXBP"
+        },
+        {
+            "filename": "young-smiling-asian-business-woman-standing-in-off-2023-11-27-04-59-17-utc.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/young-smiling-asian-business-woman-standing-in-off-2023-11-27-04-59-17-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 35048,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-smiling-asian-business-woman-standing-in-off-76QGX6S"
+        },
+        {
+            "filename": "cheerful-african-american-architect-holding-bluepr-2023-11-27-05-18-19-utc.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/cheerful-african-american-architect-holding-bluepr-2023-11-27-05-18-19-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 32553,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-african-american-architect-holding-bluepr-NGHWEV5"
+        },
+        {
+            "filename": "tv-satellite-dish-with-sunset-sky-in-the-background.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/01\/tv-satellite-dish-with-sunset-sky-in-the-background-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/package.json",
+                    "name": "Package"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 143760,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-CZYBTVP"
+        },
+        {
+            "filename": "father-and-daughter-using-laptop-and-smiling-.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/father-and-daughter-using-laptop-and-smiling--800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/package.json",
+                    "name": "Package"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 146309,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-N27PAA3"
+        },
+        {
+            "filename": "content-young-woman-surfing-internet-on-laptop-during-work-on-project.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/content-young-woman-surfing-internet-on-laptop-during-work-on-project-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/promo.json",
+                    "name": "Promo"
+                }
+            ],
+            "filesize": 173681,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UPCGN3S"
+        },
+        {
+            "filename": "reading-recipe-on-internet.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/01\/reading-recipe-on-internet-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/promo.json",
+                    "name": "Promo"
+                }
+            ],
+            "filesize": 144390,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-E7K6EKY"
+        },
+        {
+            "filename": "happy-couple-doing-shopping-on-internet.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/happy-couple-doing-shopping-on-internet-800x422.jpg",
+            "templates": [
+                {
+                    "source": "templates\/promo.json",
+                    "name": "Promo"
+                }
+            ],
+            "filesize": 131040,
+            "dimensions": [
+                1280,
+                675
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-couple-doing-shopping-on-internet-JAE9WSL"
+        },
+        {
+            "filename": "homeschool-asian-little-young-girl-student-learning-virtual-internet-online-class-on-table-at-home-.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/homeschool-asian-little-young-girl-student-learning-virtual-internet-online-class-on-table-at-home--800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/promo.json",
+                    "name": "Promo"
+                }
+            ],
+            "filesize": 76111,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/homeschool-asian-little-young-girl-student-learnin-E9C4KW2"
+        },
+        {
+            "filename": "happy-mature-asian-woman-surfs-internet-on-phone-at-small-table-on-outdoors-cafe-terrace.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/01\/happy-mature-asian-woman-surfs-internet-on-phone-at-small-table-on-outdoors-cafe-terrace-800x562.jpg",
+            "templates": [
+                {
+                    "source": "templates\/promo.json",
+                    "name": "Promo"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/kebit-single-post.json",
+                    "name": "Kebit - Single Post"
+                }
+            ],
+            "filesize": 146145,
+            "dimensions": [
+                1280,
+                899
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NABAJCB"
+        },
+        {
+            "filename": "wi-fi-router-and-plant-on-gray-textured-table.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/wi-fi-router-and-plant-on-gray-textured-table-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/promo.json",
+                    "name": "Promo"
+                }
+            ],
+            "filesize": 207204,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/wi-fi-router-and-plant-on-gray-textured-table-U9Y6WXU"
+        },
+        {
+            "filename": "10.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/10.jpg",
+            "templates": [
+                {
+                    "source": "templates\/promo.json",
+                    "name": "Promo"
+                }
+            ],
+            "filesize": 19332,
+            "dimensions": [
+                374,
+                374
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-cropped-shot-of-people-from-different-countries--AK3VTBZ"
+        },
+        {
+            "filename": "excited-business-asian-woman-sitting-at-table-with-laptop-and-celebrating-success.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/excited-business-asian-woman-sitting-at-table-with-laptop-and-celebrating-success-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 120331,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/excited-business-asian-woman-sitting-at-table-with-QEB9CXZ"
+        },
+        {
+            "filename": "logo_kebit_.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/logo_kebit_.png",
+            "templates": [
+                {
+                    "source": "templates\/kebit-header.json",
+                    "name": "Kebit - Header"
+                }
+            ],
+            "filesize": 16434,
+            "dimensions": [
+                434,
+                150
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo_kebit_w.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/logo_kebit_w.png",
+            "templates": [
+                {
+                    "source": "templates\/kebit-footer.json",
+                    "name": "Kebit - Footer"
+                }
+            ],
+            "filesize": 15179,
+            "dimensions": [
+                434,
+                150
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "back-rear-view-young-asian-woman-employee-work-from-home-using-computer-notebook.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/01\/back-rear-view-young-asian-woman-employee-work-from-home-using-computer-notebook-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/kebit-blog-archive.json",
+                    "name": "Kebit - Blog Archive"
+                }
+            ],
+            "filesize": 83950,
+            "dimensions": [
+                1280,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2QQTRBB"
+        },
+        {
+            "filename": "portrait-of-a-black-african-young-man-with-headphones-sitting-outdoors-and-looking-at-the-camera.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/kebit\/wp-content\/uploads\/sites\/14\/2024\/02\/portrait-of-a-black-african-young-man-with-headphones-sitting-outdoors-and-looking-at-the-camera-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/kebit-single-post.json",
+                    "name": "Kebit - Single Post"
+                }
+            ],
+            "filesize": 322172,
+            "dimensions": [
+                1280,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-a-black-african-young-man-with-headpho-R7DTMP6"
+        }
+    ]
+}

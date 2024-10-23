@@ -1,0 +1,50 @@
+{
+    "version": "0.4",
+    "title": "Consultco-Service Single Form",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "21ff3069",
+            "settings": {
+                "flex_direction": "column",
+                "element_pack_agbg_color_list": [
+                    {
+                        "_id": "f70b2b6"
+                    },
+                    {
+                        "start_color": "#567445",
+                        "end_color": "#1D1BE0",
+                        "_id": "9874390"
+                    }
+                ]
+            },
+            "elements": [
+                {
+                    "id": "7f418c6",
+                    "settings": {
+                        "mf_form_id": "1186***1702454437278",
+                        "element_pack_widget_tooltip_text": "This is Tooltip",
+                        "element_pack_widget_effect_transition_duration": "300",
+                        "element_pack_widget_effect_transition_easing": "ease-out"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "metform",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": {
+        "ep_grid_line_columns": "",
+        "template": "elementor_header_footer"
+    }
+}
